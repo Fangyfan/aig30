@@ -1,0 +1,24 @@
+最近100条
+0	rewrite -z	4
+1	rewrite	20
+2	balance	60
+3	refactor	16
+4	refactor -z	0
+最近1000条
+0	rewrite -z	23
+1	rewrite	148
+2	balance	601
+3	refactor	179
+4	refactor -z	49
+最近10000条
+0	rewrite -z	168
+1	rewrite	1281
+2	balance	5266
+3	refactor	1984
+4	refactor -z	301
+全部
+0	rewrite -z	155535
+1	rewrite	230334
+2	balance	988062
+3	refactor	423539
+4	refactor -z	111530

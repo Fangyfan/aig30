@@ -1,0 +1,1242 @@
+ADDERFDS_comb.aig,init,26,9,0,0,[],1218_170214
+ADDERFDS_comb.aig,reset,26,9,0.0,0.0,[],1218_170215
+ADDERFDS_comb.aig,max,26,9,0,0,[],1218_170216
+ADDERFDS_comb.aig,done,26,9,0.0,0.0,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170216
+C499.iscas_comb.aig,init,60,4,0,0,[],1218_170216
+C499.iscas_comb.aig,reset,73,5,-0.018939133782392904,-0.37878267564785806,[],1218_170217
+C499.iscas_comb.aig,max,68,5,0.10487345843909401,-0.33072661855594276,rewrite/rewrite/rewrite,1218_170219
+C499.iscas_comb.aig,done,68,5,0.4268387327397735,-0.33072661855594276,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170219
+sasc_comb.aig,init,80,2,0,0,[],1218_170219
+sasc_comb.aig,reset,77,2,0.0009464578241285381,0.018929156482570764,[],1218_170219
+sasc_comb.aig,max,77,2,0,0.018929156482570764,[],1218_170220
+sasc_comb.aig,done,77,2,-0.018929156482570757,0.018929156482570764,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170220
+b9_comb.aig,init,34,3,0,0,[],1218_170220
+b9_comb.aig,reset,33,2,0.017160521128540735,0.3432104225708147,[],1218_170221
+b9_comb.aig,max,33,2,0,0.3432104225708147,[],1218_170222
+b9_comb.aig,done,33,2,-0.3432104225708147,0.3432104225708147,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170222
+steppermotordrive_comb.aig,init,48,5,0,0,[],1218_170222
+steppermotordrive_comb.aig,reset,45,4,0.01127016653792583,0.2254033307585166,[],1218_170223
+steppermotordrive_comb.aig,max,43,4,0.006138723263521006,0.24281222055996343,rewrite,1218_170225
+steppermotordrive_comb.aig,done,43,4,-0.20799444095706981,0.24281222055996343,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170225
+C1908.iscas_comb.aig,init,96,11,0,0,[],1218_170225
+C1908.iscas_comb.aig,reset,93,9,0.009735187007894146,0.19470374015788294,[],1218_170226
+C1908.iscas_comb.aig,max,91,9,-0.010764212733756905,0.20340990143991433,rewrite/rewrite,1218_170227
+C1908.iscas_comb.aig,done,91,9,-0.1859975788758515,0.20340990143991433,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170227
+sct_comb.aig,init,28,3,0,0,[],1218_170227
+sct_comb.aig,reset,21,2,0.021132486540518712,0.42264973081037427,[],1218_170228
+sct_comb.aig,max,21,2,0,0.42264973081037427,[],1218_170229
+sct_comb.aig,done,21,2,-0.4226497308103741,0.42264973081037427,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170229
+term1_comb.aig,init,74,5,0,0,[],1218_170229
+term1_comb.aig,reset,38,4,0.02133605711662086,0.4267211423324172,[],1218_170230
+term1_comb.aig,max,38,4,0,0.4267211423324172,[],1218_170231
+term1_comb.aig,done,36,5,-0.5509281171277501,0.30251416753708427,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170231
+steppermotordrive_comb.aig,init,48,5,0,0,[],1218_170231
+steppermotordrive_comb.aig,reset,45,4,0.01127016653792583,0.2254033307585166,[],1218_170231
+steppermotordrive_comb.aig,max,43,4,0.006138723263521006,0.24281222055996343,rewrite,1218_170233
+steppermotordrive_comb.aig,done,43,4,-0.20799444095706981,0.24281222055996343,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170233
+s1196_comb.aig,init,133,8,0,0,[],1218_170233
+s1196_comb.aig,reset,122,7,0.00809825088439185,0.161965017687837,[],1218_170233
+s1196_comb.aig,max,122,7,0,0.161965017687837,[],1218_170235
+s1196_comb.aig,done,122,7,-0.16196501768783697,0.161965017687837,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170235
+s526_comb.aig,init,40,3,0,0,[],1218_170235
+s526_comb.aig,reset,32,2,0.020185760300002808,0.40371520600005617,[],1218_170235
+s526_comb.aig,max,32,2,0,0.40371520600005617,[],1218_170237
+s526_comb.aig,done,32,2,-0.40371520600005606,0.40371520600005617,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170237
+s1238_comb.aig,init,135,9,0,0,[],1218_170237
+s1238_comb.aig,reset,135,8,0.005555555555555558,0.11111111111111116,[],1218_170238
+s1238_comb.aig,max,135,8,0,0.11111111111111116,[],1218_170239
+s1238_comb.aig,done,135,8,-0.1111111111111112,0.11111111111111116,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170239
+b07_comb.aig,init,115,5,0,0,[],1218_170239
+b07_comb.aig,reset,94,5,0.004795152241495543,0.09590304482991086,[],1218_170240
+b07_comb.aig,max,92,4,0.17896489788716535,0.2844582472000673,rewrite/rewrite,1218_170241
+b07_comb.aig,done,89,5,-0.0715293663089398,0.12027672335088191,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170241
+b04_comb.aig,init,128,7,0,0,[],1218_170241
+b04_comb.aig,reset,111,6,0.010090184573880345,0.2018036914776069,[],1218_170242
+b04_comb.aig,max,108,6,-0.009320049377103422,0.21266401124826417,rewrite/rewrite,1218_170243
+b04_comb.aig,done,110,6,-0.19820007800117762,0.20540730495403614,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170243
+s1488_comb.aig,init,152,5,0,0,[],1218_170243
+s1488_comb.aig,reset,147,4,0.010663395913568852,0.21326791827137703,[],1218_170244
+s1488_comb.aig,max,147,4,0,0.21326791827137703,[],1218_170245
+s1488_comb.aig,done,148,4,-0.21593934219549826,0.2105964943472558,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170245
+s713_comb.aig,init,50,6,0,0,[],1218_170245
+s713_comb.aig,reset,50,7,-0.008333333333333337,-0.16666666666666674,[],1218_170246
+s713_comb.aig,max,50,6,0,0,[],1218_170247
+s713_comb.aig,done,50,7,0.16666666666666669,-0.16666666666666674,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170247
+ttt2_comb.aig,init,52,3,0,0,[],1218_170247
+ttt2_comb.aig,reset,33,3,0.010168624659215425,0.2033724931843085,[],1218_170248
+ttt2_comb.aig,max,33,3,0,0.2033724931843085,[],1218_170249
+ttt2_comb.aig,done,33,3,-0.20337249318430844,0.2033724931843085,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170249
+b10_comb.aig,init,62,3,0,0,[],1218_170249
+b10_comb.aig,reset,44,3,0.007878823041288402,0.15757646082576804,[],1218_170250
+b10_comb.aig,max,43,3,-0.006129632290640685,0.16720447461770416,rewrite/rewrite,1218_170251
+b10_comb.aig,done,43,3,-0.14794844703383186,0.16720447461770416,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170251
+C432.iscas_comb.aig,init,54,13,0,0,[],1218_170251
+C432.iscas_comb.aig,reset,59,12,0.0017566981481364596,0.03513396296272919,[],1218_170251
+C432.iscas_comb.aig,max,59,12,0,0.03513396296272919,[],1218_170253
+C432.iscas_comb.aig,done,54,14,-0.14719100284853515,-0.07692307692307687,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170253
+ttt2_comb.aig,init,52,3,0,0,[],1218_170253
+ttt2_comb.aig,reset,33,3,0.010168624659215425,0.2033724931843085,[],1218_170253
+ttt2_comb.aig,max,33,3,0,0.2033724931843085,[],1218_170254
+ttt2_comb.aig,done,33,3,-0.20337249318430844,0.2033724931843085,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/refactor -z,1218_170254
+c8_comb.aig,init,37,3,0,0,[],1218_170254
+c8_comb.aig,reset,27,3,0.007287890191137547,0.14575780382275094,[],1218_170255
+c8_comb.aig,max,26,3,-0.013183008872210486,0.16172635571509064,refactor -z/refactor -z/refactor -z/rewrite,1218_170256
+c8_comb.aig,done,26,3,-0.1297892519304112,0.16172635571509064,refactor -z/refactor -z/refactor -z/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170256
+simple_spi_comb.aig,init,121,4,0,0,[],1218_170256
+simple_spi_comb.aig,reset,118,4,0.000623725039999018,0.01247450079998036,[],1218_170258
+simple_spi_comb.aig,max,118,4,0,0.01247450079998036,[],1218_170300
+simple_spi_comb.aig,done,118,4,-0.012474500799980363,0.01247450079998036,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170300
+b9_comb.aig,init,34,3,0,0,[],1218_170300
+b9_comb.aig,reset,33,2,0.017160521128540735,0.3432104225708147,[],1218_170300
+b9_comb.aig,max,33,2,0,0.3432104225708147,[],1218_170302
+b9_comb.aig,done,33,2,-0.3432104225708147,0.3432104225708147,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170302
+s1196_comb.aig,init,133,8,0,0,[],1218_170302
+s1196_comb.aig,reset,122,7,0.00809825088439185,0.161965017687837,[],1218_170302
+s1196_comb.aig,max,122,7,0,0.161965017687837,[],1218_170304
+s1196_comb.aig,done,122,7,-0.16196501768783697,0.161965017687837,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170304
+C499.iscas_comb.aig,init,60,4,0,0,[],1218_170304
+C499.iscas_comb.aig,reset,73,5,-0.018939133782392904,-0.37878267564785806,[],1218_170304
+C499.iscas_comb.aig,max,68,5,0.10487345843909401,-0.33072661855594276,rewrite/rewrite/rewrite,1218_170306
+C499.iscas_comb.aig,done,68,5,0.4268387327397735,-0.33072661855594276,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170306
+s713_comb.aig,init,50,6,0,0,[],1218_170306
+s713_comb.aig,reset,50,7,-0.008333333333333337,-0.16666666666666674,[],1218_170306
+s713_comb.aig,max,50,6,0,0,[],1218_170308
+s713_comb.aig,done,50,7,0.16666666666666669,-0.16666666666666674,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170308
+int2float.aig,init,50,5,0,0,[],1218_170308
+int2float.aig,reset,48,4,0.010808164115469148,0.21616328230938298,[],1218_170308
+int2float.aig,max,48,4,0,0.21616328230938298,[],1218_170309
+int2float.aig,done,49,4,-0.2242861595476992,0.2080404050710667,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170309
+pcler8_cl_comb.aig,init,23,3,0,0,[],1218_170310
+pcler8_cl_comb.aig,reset,23,3,0.0,0.0,[],1218_170310
+pcler8_cl_comb.aig,max,23,3,0,0,[],1218_170311
+pcler8_cl_comb.aig,done,23,3,0.0,0.0,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170311
+s1238_comb.aig,init,135,9,0,0,[],1218_170311
+s1238_comb.aig,reset,135,8,0.005555555555555558,0.11111111111111116,[],1218_170312
+s1238_comb.aig,max,135,8,0,0.11111111111111116,[],1218_170313
+s1238_comb.aig,done,135,8,-0.1111111111111112,0.11111111111111116,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170313
+s713_comb.aig,init,50,6,0,0,[],1218_170313
+s713_comb.aig,reset,50,7,-0.008333333333333337,-0.16666666666666674,[],1218_170314
+s713_comb.aig,max,50,6,0,0,[],1218_170315
+s713_comb.aig,done,50,7,0.16666666666666669,-0.16666666666666674,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170315
+c8_comb.aig,init,37,3,0,0,[],1218_170315
+c8_comb.aig,reset,27,3,0.007287890191137547,0.14575780382275094,[],1218_170315
+c8_comb.aig,max,26,3,0.0013927715100646061,0.16172635571509064,rewrite/rewrite,1218_170317
+c8_comb.aig,done,26,3,-0.12978925193041121,0.16172635571509064,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170317
+s832_comb.aig,init,80,4,0,0,[],1218_170317
+s832_comb.aig,reset,81,5,-0.012889411867181576,-0.25778823734363154,[],1218_170317
+s832_comb.aig,max,80,5,0.04645647294517627,-0.25,rewrite/rewrite/rewrite,1218_170319
+s832_comb.aig,done,80,5,0.265576474687263,-0.25,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170319
+s838_1_comb.aig,init,113,8,0,0,[],1218_170319
+s838_1_comb.aig,reset,88,6,0.016907210100040947,0.33814420200081896,[],1218_170319
+s838_1_comb.aig,max,88,6,0,0.33814420200081896,[],1218_170320
+s838_1_comb.aig,done,86,7,-0.43962846786396703,0.23665993613767067,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170320
+C432.iscas_comb.aig,init,54,13,0,0,[],1218_170320
+C432.iscas_comb.aig,reset,59,12,0.0017566981481364596,0.03513396296272919,[],1218_170321
+C432.iscas_comb.aig,max,59,12,0,0.03513396296272919,[],1218_170322
+C432.iscas_comb.aig,done,54,14,-0.14719100284853515,-0.07692307692307687,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170322
+b13_comb.aig,init,49,3,0,0,[],1218_170322
+b13_comb.aig,reset,47,4,-0.015291948575248026,-0.30583897150496053,[],1218_170323
+b13_comb.aig,max,49,3,0,0,[],1218_170324
+b13_comb.aig,done,47,4,0.3058389715049604,-0.30583897150496053,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170324
+s526_comb.aig,init,40,3,0,0,[],1218_170324
+s526_comb.aig,reset,32,2,0.020185760300002808,0.40371520600005617,[],1218_170324
+s526_comb.aig,max,32,2,0,0.40371520600005617,[],1218_170326
+s526_comb.aig,done,32,2,-0.40371520600005606,0.40371520600005617,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170326
+C1908.iscas_comb.aig,init,96,11,0,0,[],1218_170326
+C1908.iscas_comb.aig,reset,93,9,0.009735187007894146,0.19470374015788294,[],1218_170326
+C1908.iscas_comb.aig,max,91,9,-0.010764212733756905,0.20340990143991433,rewrite/rewrite,1218_170328
+C1908.iscas_comb.aig,done,97,10,-0.30322097136234316,0.08618650895342284,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite -z/rewrite -z/rewrite -z/rewrite -z/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170328
+s510_comb.aig,init,46,3,0,0,[],1218_170328
+s510_comb.aig,reset,45,4,-0.0159380473395787,-0.31876094679157396,[],1218_170328
+s510_comb.aig,max,46,3,0,0,[],1218_170330
+s510_comb.aig,done,45,4,0.3187609467915741,-0.31876094679157396,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170330
+apex7_comb.aig,init,63,7,0,0,[],1218_170330
+apex7_comb.aig,reset,57,5,0.016028938171023504,0.3205787634204701,[],1218_170330
+apex7_comb.aig,max,56,5,-0.02607166946399094,0.32656497029852616,rewrite/rewrite,1218_170333
+apex7_comb.aig,done,57,5,-0.3205787634204701,0.3205787634204701,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170333
+s510_comb.aig,init,46,3,0,0,[],1218_170333
+s510_comb.aig,reset,45,4,-0.0159380473395787,-0.31876094679157396,[],1218_170333
+s510_comb.aig,max,46,3,0,0,[],1218_170334
+s510_comb.aig,done,45,4,0.3187609467915741,-0.31876094679157396,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170334
+mux_cl_comb.aig,init,37,4,0,0,[],1218_170334
+mux_cl_comb.aig,reset,10,3,0.030504678315873633,0.6100935663174727,[],1218_170335
+mux_cl_comb.aig,max,10,3,0,0.6100935663174727,[],1218_170336
+mux_cl_comb.aig,done,10,3,-0.6100935663174727,0.6100935663174727,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170336
+b04_comb.aig,init,128,7,0,0,[],1218_170336
+b04_comb.aig,reset,111,6,0.010090184573880345,0.2018036914776069,[],1218_170337
+b04_comb.aig,max,108,6,-0.009320049377103422,0.21266401124826417,rewrite/rewrite,1218_170338
+b04_comb.aig,done,110,6,-0.19820007800117762,0.20540730495403614,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170338
+s298_comb.aig,init,25,2,0,0,[],1218_170338
+s298_comb.aig,reset,18,2,0.007573593128807149,0.15147186257614298,[],1218_170339
+s298_comb.aig,max,18,2,0,0.15147186257614298,[],1218_170340
+s298_comb.aig,done,18,2,-0.15147186257614298,0.15147186257614298,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170340
+b07_comb.aig,init,115,5,0,0,[],1218_170340
+b07_comb.aig,reset,94,5,0.004795152241495543,0.09590304482991086,[],1218_170340
+b07_comb.aig,max,92,4,0.17896489788716535,0.2844582472000673,rewrite/rewrite,1218_170342
+b07_comb.aig,done,89,5,-0.0715293663089398,0.12027672335088191,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170342
+comp_comb.aig,init,27,5,0,0,[],1218_170342
+comp_comb.aig,reset,28,4,0.009265993822614749,0.18531987645229497,[],1218_170342
+comp_comb.aig,max,28,4,0,0.18531987645229497,[],1218_170344
+comp_comb.aig,done,28,4,-0.18531987645229503,0.18531987645229497,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170344
+b11_comb.aig,init,164,6,0,0,[],1218_170344
+b11_comb.aig,reset,153,5,0.009754942736450955,0.1950988547290191,[],1218_170344
+b11_comb.aig,max,149,5,-0.008918619456763775,0.20569012074515725,rewrite/rewrite,1218_170346
+b11_comb.aig,done,149,5,-0.18450758871288092,0.20569012074515725,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170346
+apex7_comb.aig,init,63,7,0,0,[],1218_170346
+apex7_comb.aig,reset,57,5,0.016028938171023504,0.3205787634204701,[],1218_170347
+apex7_comb.aig,max,56,5,-0.02607166946399094,0.32656497029852616,rewrite/rewrite,1218_170348
+apex7_comb.aig,done,57,5,-0.3205787634204701,0.3205787634204701,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170348
+C499.iscas_comb.aig,init,60,4,0,0,[],1218_170348
+C499.iscas_comb.aig,reset,73,5,-0.018939133782392904,-0.37878267564785806,[],1218_170348
+C499.iscas_comb.aig,max,68,5,0.10487345843909401,-0.33072661855594276,rewrite/rewrite/rewrite,1218_170350
+C499.iscas_comb.aig,done,68,5,0.4268387327397735,-0.33072661855594276,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170350
+C1908.iscas_comb.aig,init,96,11,0,0,[],1218_170350
+C1908.iscas_comb.aig,reset,93,9,0.009735187007894146,0.19470374015788294,[],1218_170351
+C1908.iscas_comb.aig,max,91,9,-0.010764212733756905,0.20340990143991433,rewrite/rewrite,1218_170352
+C1908.iscas_comb.aig,done,91,9,-0.1859975788758515,0.20340990143991433,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170352
+s832_comb.aig,init,80,4,0,0,[],1218_170352
+s832_comb.aig,reset,81,5,-0.012889411867181576,-0.25778823734363154,[],1218_170353
+s832_comb.aig,max,80,5,0.04645647294517627,-0.25,rewrite/rewrite/rewrite,1218_170354
+s832_comb.aig,done,80,5,0.265576474687263,-0.25,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170354
+b10_comb.aig,init,62,3,0,0,[],1218_170354
+b10_comb.aig,reset,44,3,0.007878823041288402,0.15757646082576804,[],1218_170355
+b10_comb.aig,max,43,3,-0.006129632290640685,0.16720447461770416,rewrite/rewrite,1218_170356
+b10_comb.aig,done,43,3,-0.14794844703383186,0.16720447461770416,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170356
+s444_comb.aig,init,31,3,0,0,[],1218_170356
+s444_comb.aig,reset,31,3,0.0,0.0,[],1218_170356
+s444_comb.aig,max,31,3,0,0,[],1218_170358
+s444_comb.aig,done,31,3,0.0,0.0,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170358
+b10_comb.aig,init,62,3,0,0,[],1218_170358
+b10_comb.aig,reset,44,3,0.007878823041288402,0.15757646082576804,[],1218_170358
+b10_comb.aig,max,43,3,-0.006129632290640685,0.16720447461770416,rewrite/rewrite,1218_170400
+b10_comb.aig,done,43,3,-0.14794844703383186,0.16720447461770416,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170400
+s298_comb.aig,init,25,2,0,0,[],1218_170400
+s298_comb.aig,reset,18,2,0.007573593128807149,0.15147186257614298,[],1218_170400
+s298_comb.aig,max,18,2,0,0.15147186257614298,[],1218_170401
+s298_comb.aig,done,18,2,-0.15147186257614298,0.15147186257614298,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170401
+int2float.aig,init,50,5,0,0,[],1218_170401
+int2float.aig,reset,48,4,0.010808164115469148,0.21616328230938298,[],1218_170402
+int2float.aig,max,48,4,0,0.21616328230938298,[],1218_170403
+int2float.aig,done,49,4,-0.2242861595476992,0.2080404050710667,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170403
+s1488_comb.aig,init,152,5,0,0,[],1218_170403
+s1488_comb.aig,reset,147,4,0.010663395913568852,0.21326791827137703,[],1218_170404
+s1488_comb.aig,max,147,4,0,0.21326791827137703,[],1218_170406
+s1488_comb.aig,done,148,4,-0.21593934219549826,0.2105964943472558,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170406
+b07_comb.aig,init,115,5,0,0,[],1218_170407
+b07_comb.aig,reset,94,5,0.004795152241495543,0.09590304482991086,[],1218_170407
+b07_comb.aig,max,92,4,0.17896489788716535,0.2844582472000673,rewrite/rewrite,1218_170409
+b07_comb.aig,done,89,5,-0.0715293663089398,0.12027672335088191,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170409
+cavlc.aig,init,119,6,0,0,[],1218_170409
+cavlc.aig,reset,119,6,0.0,0.0,[],1218_170409
+cavlc.aig,max,119,6,0,0,[],1218_170411
+cavlc.aig,done,119,6,0.0,0.0,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170411
+z4ml_comb.aig,init,8,2,0,0,[],1218_170411
+z4ml_comb.aig,reset,7,2,0.0032292826653257333,0.06458565330651467,[],1218_170411
+z4ml_comb.aig,max,6,2,0.066159660243721,0.1339745962155614,rewrite,1218_170413
+z4ml_comb.aig,done,6,2,0.004803289602532075,0.1339745962155614,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170413
+s1488_comb.aig,init,152,5,0,0,[],1218_170413
+s1488_comb.aig,reset,147,4,0.010663395913568852,0.21326791827137703,[],1218_170413
+s1488_comb.aig,max,147,4,0,0.21326791827137703,[],1218_170415
+s1488_comb.aig,done,148,4,-0.21593934219549826,0.2105964943472558,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170415
+z4ml_comb.aig,init,8,2,0,0,[],1218_170415
+z4ml_comb.aig,reset,7,2,0.0032292826653257333,0.06458565330651467,[],1218_170415
+z4ml_comb.aig,max,6,2,0.066159660243721,0.1339745962155614,rewrite,1218_170417
+z4ml_comb.aig,done,6,2,0.004803289602532075,0.1339745962155614,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170417
+s15850_comb.aig,init,136,7,0,0,[],1218_170417
+s15850_comb.aig,reset,134,5,0.014549291952339904,0.2909858390467981,[],1218_170417
+s15850_comb.aig,max,134,5,0,0.2909858390467981,[],1218_170418
+s15850_comb.aig,done,135,6,-0.4359574605786878,0.14601421751490817,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170418
+ADDERFDS_comb.aig,init,26,9,0,0,[],1218_170419
+ADDERFDS_comb.aig,reset,26,9,0.0,0.0,[],1218_170419
+ADDERFDS_comb.aig,max,26,9,0,0,[],1218_170420
+ADDERFDS_comb.aig,done,26,9,0.0,0.0,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170420
+s820_comb.aig,init,81,5,0,0,[],1218_170420
+s820_comb.aig,reset,78,4,0.010747729482987346,0.2149545896597469,[],1218_170421
+s820_comb.aig,max,78,4,0,0.2149545896597469,[],1218_170422
+s820_comb.aig,done,78,4,-0.21495458965974698,0.2149545896597469,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170422
+C432.iscas_comb.aig,init,54,13,0,0,[],1218_170422
+C432.iscas_comb.aig,reset,59,12,0.0017566981481364596,0.03513396296272919,[],1218_170422
+C432.iscas_comb.aig,max,59,12,0,0.03513396296272919,[],1218_170424
+C432.iscas_comb.aig,done,54,14,-0.14719100284853515,-0.07692307692307687,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170424
+simple_spi_comb.aig,init,121,4,0,0,[],1218_170424
+simple_spi_comb.aig,reset,118,4,0.000623725039999018,0.01247450079998036,[],1218_170424
+simple_spi_comb.aig,max,118,4,0,0.01247450079998036,[],1218_170426
+simple_spi_comb.aig,done,118,4,-0.012474500799980363,0.01247450079998036,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170426
+s713_comb.aig,init,50,6,0,0,[],1218_170426
+s713_comb.aig,reset,50,7,-0.008333333333333337,-0.16666666666666674,[],1218_170426
+s713_comb.aig,max,50,6,0,0,[],1218_170428
+s713_comb.aig,done,50,7,0.16666666666666669,-0.16666666666666674,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170428
+int2float.aig,init,50,5,0,0,[],1218_170428
+int2float.aig,reset,48,4,0.010808164115469148,0.21616328230938298,[],1218_170428
+int2float.aig,max,48,4,0,0.21616328230938298,[],1218_170430
+int2float.aig,done,49,4,-0.2242861595476992,0.2080404050710667,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170430
+s15850_comb.aig,init,136,7,0,0,[],1218_170430
+s15850_comb.aig,reset,134,5,0.014549291952339904,0.2909858390467981,[],1218_170430
+s15850_comb.aig,max,134,5,0,0.2909858390467981,[],1218_170431
+s15850_comb.aig,done,135,6,-0.4359574605786878,0.14601421751490817,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170431
+s510_comb.aig,init,46,3,0,0,[],1218_170431
+s510_comb.aig,reset,45,4,-0.0159380473395787,-0.31876094679157396,[],1218_170432
+s510_comb.aig,max,46,3,0,0,[],1218_170434
+s510_comb.aig,done,45,4,0.3187609467915741,-0.31876094679157396,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170434
+sct_comb.aig,init,28,3,0,0,[],1218_170434
+sct_comb.aig,reset,21,2,0.021132486540518712,0.42264973081037427,[],1218_170434
+sct_comb.aig,max,21,2,0,0.42264973081037427,[],1218_170435
+sct_comb.aig,done,21,2,-0.4226497308103741,0.42264973081037427,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170435
+comp_comb.aig,init,27,5,0,0,[],1218_170436
+comp_comb.aig,reset,28,4,0.009265993822614749,0.18531987645229497,[],1218_170436
+comp_comb.aig,max,28,4,0,0.18531987645229497,[],1218_170437
+comp_comb.aig,done,28,4,-0.18531987645229503,0.18531987645229497,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170437
+mux_cl_comb.aig,init,37,4,0,0,[],1218_170437
+mux_cl_comb.aig,reset,10,3,0.030504678315873633,0.6100935663174727,[],1218_170439
+mux_cl_comb.aig,max,10,3,0,0.6100935663174727,[],1218_170440
+mux_cl_comb.aig,done,10,3,-0.6100935663174727,0.6100935663174727,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170440
+term1_comb.aig,init,74,5,0,0,[],1218_170440
+term1_comb.aig,reset,38,4,0.02133605711662086,0.4267211423324172,[],1218_170441
+term1_comb.aig,max,38,4,0,0.4267211423324172,[],1218_170442
+term1_comb.aig,done,36,5,-0.5509281171277501,0.30251416753708427,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170442
+s1494_comb.aig,init,154,5,0,0,[],1218_170442
+s1494_comb.aig,reset,148,4,0.010786962146980527,0.21573924293961055,[],1218_170443
+s1494_comb.aig,max,148,4,0,0.21573924293961055,[],1218_170444
+s1494_comb.aig,done,149,4,-0.2183843120241157,0.21309417385510532,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170444
+b04_comb.aig,init,128,7,0,0,[],1218_170444
+b04_comb.aig,reset,111,6,0.010090184573880345,0.2018036914776069,[],1218_170445
+b04_comb.aig,max,108,6,-0.009320049377103422,0.21266401124826417,rewrite/rewrite,1218_170446
+b04_comb.aig,done,110,6,-0.19820007800117762,0.20540730495403614,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170446
+s832_comb.aig,init,80,4,0,0,[],1218_170446
+s832_comb.aig,reset,81,5,-0.012889411867181576,-0.25778823734363154,[],1218_170447
+s832_comb.aig,max,80,5,0.04645647294517627,-0.25,rewrite/rewrite/rewrite,1218_170448
+s832_comb.aig,done,80,5,0.265576474687263,-0.25,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170448
+cavlc.aig,init,119,6,0,0,[],1218_170448
+cavlc.aig,reset,119,6,0.0,0.0,[],1218_170449
+cavlc.aig,max,119,6,0,0,[],1218_170450
+cavlc.aig,done,119,6,0.0,0.0,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170450
+s400_comb.aig,init,31,3,0,0,[],1218_170450
+s400_comb.aig,reset,35,3,-0.003127964812905182,-0.06255929625810364,[],1218_170451
+s400_comb.aig,max,32,3,0.05281420988238997,-0.016001016001524038,rewrite/rewrite,1218_170452
+s400_comb.aig,done,32,3,0.10911757651468329,-0.016001016001524038,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170452
+C499.iscas_comb.aig,init,60,4,0,0,[],1218_170452
+C499.iscas_comb.aig,reset,73,5,-0.018939133782392904,-0.37878267564785806,[],1218_170453
+C499.iscas_comb.aig,max,68,5,0.10487345843909401,-0.33072661855594276,rewrite/rewrite/rewrite,1218_170454
+C499.iscas_comb.aig,done,68,5,0.4268387327397735,-0.33072661855594276,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170454
+ttt2_comb.aig,init,52,3,0,0,[],1218_170454
+ttt2_comb.aig,reset,33,3,0.010168624659215425,0.2033724931843085,[],1218_170455
+ttt2_comb.aig,max,33,3,0,0.2033724931843085,[],1218_170456
+ttt2_comb.aig,done,33,3,-0.20337249318430844,0.2033724931843085,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170456
+C1908.iscas_comb.aig,init,96,11,0,0,[],1218_170456
+C1908.iscas_comb.aig,reset,93,9,0.009735187007894146,0.19470374015788294,[],1218_170457
+C1908.iscas_comb.aig,max,91,9,-0.010764212733756905,0.20340990143991433,rewrite/rewrite,1218_170458
+C1908.iscas_comb.aig,done,91,9,-0.1859975788758515,0.20340990143991433,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170458
+C1908.iscas_comb.aig,init,96,11,0,0,[],1218_170458
+C1908.iscas_comb.aig,reset,93,9,0.009735187007894146,0.19470374015788294,[],1218_170459
+C1908.iscas_comb.aig,max,91,9,-0.010764212733756905,0.20340990143991433,rewrite/rewrite,1218_170501
+C1908.iscas_comb.aig,done,91,9,-0.1859975788758515,0.20340990143991433,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170501
+s820_comb.aig,init,81,5,0,0,[],1218_170501
+s820_comb.aig,reset,78,4,0.010747729482987346,0.2149545896597469,[],1218_170501
+s820_comb.aig,max,78,4,0,0.2149545896597469,[],1218_170503
+s820_comb.aig,done,78,4,-0.21495458965974698,0.2149545896597469,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170503
+s1196_comb.aig,init,133,8,0,0,[],1218_170503
+s1196_comb.aig,reset,122,7,0.00809825088439185,0.161965017687837,[],1218_170503
+s1196_comb.aig,max,122,7,0,0.161965017687837,[],1218_170505
+s1196_comb.aig,done,122,7,-0.16196501768783697,0.161965017687837,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170505
+int2float.aig,init,50,5,0,0,[],1218_170505
+int2float.aig,reset,48,4,0.010808164115469148,0.21616328230938298,[],1218_170505
+int2float.aig,max,48,4,0,0.21616328230938298,[],1218_170507
+int2float.aig,done,49,4,-0.2242861595476992,0.2080404050710667,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170507
+c8_comb.aig,init,37,3,0,0,[],1218_170507
+c8_comb.aig,reset,27,3,0.007287890191137547,0.14575780382275094,[],1218_170507
+c8_comb.aig,max,26,3,0.0013927715100646061,0.16172635571509064,rewrite/rewrite,1218_170508
+c8_comb.aig,done,26,3,-0.12978925193041121,0.16172635571509064,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170508
+s1494_comb.aig,init,154,5,0,0,[],1218_170508
+s1494_comb.aig,reset,148,4,0.010786962146980527,0.21573924293961055,[],1218_170509
+s1494_comb.aig,max,148,4,0,0.21573924293961055,[],1218_170511
+s1494_comb.aig,done,149,4,-0.2183843120241157,0.21309417385510532,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170511
+b9_comb.aig,init,34,3,0,0,[],1218_170511
+b9_comb.aig,reset,33,2,0.017160521128540735,0.3432104225708147,[],1218_170511
+b9_comb.aig,max,33,2,0,0.3432104225708147,[],1218_170513
+b9_comb.aig,done,33,2,-0.3432104225708147,0.3432104225708147,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170513
+cavlc.aig,init,119,6,0,0,[],1218_170513
+cavlc.aig,reset,119,6,0.0,0.0,[],1218_170514
+cavlc.aig,max,119,6,0,0,[],1218_170516
+cavlc.aig,done,119,6,0.0,0.0,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170516
+s526n_comb.aig,init,35,3,0,0,[],1218_170516
+s526n_comb.aig,reset,29,3,0.0044870505083600245,0.08974101016720049,[],1218_170516
+s526n_comb.aig,max,29,3,0,0.08974101016720049,[],1218_170517
+s526n_comb.aig,done,29,3,-0.08974101016720051,0.08974101016720049,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170517
+simple_spi_comb.aig,init,121,4,0,0,[],1218_170517
+simple_spi_comb.aig,reset,118,4,0.000623725039999018,0.01247450079998036,[],1218_170518
+simple_spi_comb.aig,max,118,4,0,0.01247450079998036,[],1218_170519
+simple_spi_comb.aig,done,118,4,-0.012474500799980363,0.01247450079998036,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170519
+cavlc.aig,init,119,6,0,0,[],1218_170519
+cavlc.aig,reset,119,6,0.0,0.0,[],1218_170520
+cavlc.aig,max,119,6,0,0,[],1218_170522
+cavlc.aig,done,119,6,0.0,0.0,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170522
+b03_comb.aig,init,80,5,0,0,[],1218_170522
+b03_comb.aig,reset,70,3,0.02193756959919544,0.4387513919839088,[],1218_170522
+b03_comb.aig,max,70,3,0,0.4387513919839088,[],1218_170524
+b03_comb.aig,done,69,4,-0.6204698088080863,0.25703297515973156,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170524
+cavlc.aig,init,119,6,0,0,[],1218_170524
+cavlc.aig,reset,119,6,0.0,0.0,[],1218_170524
+cavlc.aig,max,119,6,0,0,[],1218_170526
+cavlc.aig,done,119,6,0.0,0.0,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170526
+s838_1_comb.aig,init,113,8,0,0,[],1218_170526
+s838_1_comb.aig,reset,88,6,0.016907210100040947,0.33814420200081896,[],1218_170526
+s838_1_comb.aig,max,88,6,0,0.33814420200081896,[],1218_170528
+s838_1_comb.aig,done,86,7,-0.43962846786396703,0.23665993613767067,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170528
+ttt2_comb.aig,init,52,3,0,0,[],1218_170528
+ttt2_comb.aig,reset,33,3,0.010168624659215425,0.2033724931843085,[],1218_170528
+ttt2_comb.aig,max,33,3,0,0.2033724931843085,[],1218_170530
+ttt2_comb.aig,done,33,3,-0.20337249318430844,0.2033724931843085,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170530
+ADDERFDS_comb.aig,init,26,9,0,0,[],1218_170530
+ADDERFDS_comb.aig,reset,26,9,0.0,0.0,[],1218_170530
+ADDERFDS_comb.aig,max,26,9,0,0,[],1218_170532
+ADDERFDS_comb.aig,done,26,9,0.0,0.0,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170532
+s1238_comb.aig,init,135,9,0,0,[],1218_170532
+s1238_comb.aig,reset,135,8,0.005555555555555558,0.11111111111111116,[],1218_170532
+s1238_comb.aig,max,135,8,0,0.11111111111111116,[],1218_170534
+s1238_comb.aig,done,135,8,-0.1111111111111112,0.11111111111111116,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170534
+term1_comb.aig,init,74,5,0,0,[],1218_170534
+term1_comb.aig,reset,38,4,0.02133605711662086,0.4267211423324172,[],1218_170534
+term1_comb.aig,max,38,4,0,0.4267211423324172,[],1218_170536
+term1_comb.aig,done,36,5,-0.5509281171277501,0.30251416753708427,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170536
+s526_comb.aig,init,40,3,0,0,[],1218_170536
+s526_comb.aig,reset,32,2,0.020185760300002808,0.40371520600005617,[],1218_170536
+s526_comb.aig,max,32,2,0,0.40371520600005617,[],1218_170538
+s526_comb.aig,done,32,2,-0.40371520600005606,0.40371520600005617,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170538
+b07_comb.aig,init,115,5,0,0,[],1218_170538
+b07_comb.aig,reset,94,5,0.004795152241495543,0.09590304482991086,[],1218_170538
+b07_comb.aig,max,92,4,0.17896489788716535,0.2844582472000673,rewrite/rewrite,1218_170540
+b07_comb.aig,done,89,5,-0.0715293663089398,0.12027672335088191,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170540
+s15850_comb.aig,init,136,7,0,0,[],1218_170540
+s15850_comb.aig,reset,134,5,0.014549291952339904,0.2909858390467981,[],1218_170540
+s15850_comb.aig,max,134,5,0,0.2909858390467981,[],1218_170542
+s15850_comb.aig,done,135,6,-0.4359574605786878,0.14601421751490817,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170542
+s1196_comb.aig,init,133,8,0,0,[],1218_170542
+s1196_comb.aig,reset,122,7,0.00809825088439185,0.161965017687837,[],1218_170542
+s1196_comb.aig,max,122,7,0,0.161965017687837,[],1218_170544
+s1196_comb.aig,done,122,7,-0.16196501768783697,0.161965017687837,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170544
+lal_comb.aig,init,37,3,0,0,[],1218_170544
+lal_comb.aig,reset,24,2,0.02315375779143903,0.46307515582878056,[],1218_170544
+lal_comb.aig,max,24,2,0,0.46307515582878056,[],1218_170546
+lal_comb.aig,done,24,2,-0.4630751558287805,0.46307515582878056,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170546
+c8_comb.aig,init,37,3,0,0,[],1218_170546
+c8_comb.aig,reset,27,3,0.007287890191137547,0.14575780382275094,[],1218_170546
+c8_comb.aig,max,26,3,0.0013927715100646061,0.16172635571509064,rewrite/rewrite,1218_170547
+c8_comb.aig,done,26,3,-0.12978925193041121,0.16172635571509064,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170547
+s526n_comb.aig,init,35,3,0,0,[],1218_170547
+s526n_comb.aig,reset,29,3,0.0044870505083600245,0.08974101016720049,[],1218_170548
+s526n_comb.aig,max,29,3,0,0.08974101016720049,[],1218_170549
+s526n_comb.aig,done,29,3,-0.08974101016720051,0.08974101016720049,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170549
+ttt2_comb.aig,init,52,3,0,0,[],1218_170549
+ttt2_comb.aig,reset,33,3,0.010168624659215425,0.2033724931843085,[],1218_170549
+ttt2_comb.aig,max,33,3,0,0.2033724931843085,[],1218_170551
+ttt2_comb.aig,done,33,3,-0.20337249318430844,0.2033724931843085,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170551
+lal_comb.aig,init,37,3,0,0,[],1218_170551
+lal_comb.aig,reset,24,2,0.02315375779143903,0.46307515582878056,[],1218_170551
+lal_comb.aig,max,24,2,0,0.46307515582878056,[],1218_170552
+lal_comb.aig,done,24,2,-0.4630751558287805,0.46307515582878056,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170552
+lal_comb.aig,init,37,3,0,0,[],1218_170553
+lal_comb.aig,reset,24,2,0.02315375779143903,0.46307515582878056,[],1218_170553
+lal_comb.aig,max,24,2,0,0.46307515582878056,[],1218_170554
+lal_comb.aig,done,24,2,-0.4630751558287805,0.46307515582878056,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170554
+b9_comb.aig,init,34,3,0,0,[],1218_170554
+b9_comb.aig,reset,33,2,0.017160521128540735,0.3432104225708147,[],1218_170555
+b9_comb.aig,max,33,2,0,0.3432104225708147,[],1218_170556
+b9_comb.aig,done,33,2,-0.3432104225708147,0.3432104225708147,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170556
+s1238_comb.aig,init,135,9,0,0,[],1218_170556
+s1238_comb.aig,reset,135,8,0.005555555555555558,0.11111111111111116,[],1218_170557
+s1238_comb.aig,max,135,8,0,0.11111111111111116,[],1218_170558
+s1238_comb.aig,done,135,8,-0.1111111111111112,0.11111111111111116,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170558
+pcler8_cl_comb.aig,init,23,3,0,0,[],1218_170558
+pcler8_cl_comb.aig,reset,23,3,0.0,0.0,[],1218_170558
+pcler8_cl_comb.aig,max,23,3,0,0,[],1218_170600
+pcler8_cl_comb.aig,done,23,3,0.0,0.0,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170600
+ttt2_comb.aig,init,52,3,0,0,[],1218_170600
+ttt2_comb.aig,reset,33,3,0.010168624659215425,0.2033724931843085,[],1218_170600
+ttt2_comb.aig,max,33,3,0,0.2033724931843085,[],1218_170602
+ttt2_comb.aig,done,33,3,-0.20337249318430844,0.2033724931843085,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170602
+s444_comb.aig,init,31,3,0,0,[],1218_170602
+s444_comb.aig,reset,31,3,0.0,0.0,[],1218_170602
+s444_comb.aig,max,31,3,0,0,[],1218_170603
+s444_comb.aig,done,31,3,0.0,0.0,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170603
+b10_comb.aig,init,62,3,0,0,[],1218_170603
+b10_comb.aig,reset,44,3,0.007878823041288402,0.15757646082576804,[],1218_170604
+b10_comb.aig,max,43,3,-0.006129632290640685,0.16720447461770416,rewrite/rewrite,1218_170605
+b10_comb.aig,done,43,3,-0.14794844703383186,0.16720447461770416,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170605
+C880.iscas_comb.aig,init,82,10,0,0,[],1218_170605
+C880.iscas_comb.aig,reset,74,9,0.007251444183572192,0.14502888367144384,[],1218_170606
+C880.iscas_comb.aig,max,74,9,0,0.14502888367144384,[],1218_170607
+C880.iscas_comb.aig,done,74,9,-0.14502888367144384,0.14502888367144384,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170607
+z4ml_comb.aig,init,8,2,0,0,[],1218_170607
+z4ml_comb.aig,reset,7,2,0.0032292826653257333,0.06458565330651467,[],1218_170608
+z4ml_comb.aig,max,6,2,0.066159660243721,0.1339745962155614,rewrite,1218_170609
+z4ml_comb.aig,done,6,2,0.004803289602532075,0.1339745962155614,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170609
+sct_comb.aig,init,28,3,0,0,[],1218_170609
+sct_comb.aig,reset,21,2,0.021132486540518712,0.42264973081037427,[],1218_170610
+sct_comb.aig,max,21,2,0,0.42264973081037427,[],1218_170611
+sct_comb.aig,done,21,2,-0.4226497308103741,0.42264973081037427,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170611
+s838_1_comb.aig,init,113,8,0,0,[],1218_170611
+s838_1_comb.aig,reset,88,6,0.016907210100040947,0.33814420200081896,[],1218_170611
+s838_1_comb.aig,max,88,6,0,0.33814420200081896,[],1218_170613
+s838_1_comb.aig,done,86,7,-0.43962846786396703,0.23665993613767067,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170613
+comp_comb.aig,init,27,5,0,0,[],1218_170613
+comp_comb.aig,reset,28,4,0.009265993822614749,0.18531987645229497,[],1218_170613
+comp_comb.aig,max,28,4,0,0.18531987645229497,[],1218_170614
+comp_comb.aig,done,28,4,-0.18531987645229503,0.18531987645229497,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170614
+ADDERFDS_comb.aig,init,26,9,0,0,[],1218_170614
+ADDERFDS_comb.aig,reset,26,9,0.0,0.0,[],1218_170615
+ADDERFDS_comb.aig,max,26,9,0,0,[],1218_170616
+ADDERFDS_comb.aig,done,26,9,0.0,0.0,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170616
+s713_comb.aig,init,50,6,0,0,[],1218_170616
+s713_comb.aig,reset,50,7,-0.008333333333333337,-0.16666666666666674,[],1218_170617
+s713_comb.aig,max,50,6,0,0,[],1218_170621
+s713_comb.aig,done,50,7,0.16666666666666669,-0.16666666666666674,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170621
+s400_comb.aig,init,31,3,0,0,[],1218_170621
+s400_comb.aig,reset,35,3,-0.003127964812905182,-0.06255929625810364,[],1218_170621
+s400_comb.aig,max,32,3,0.05281420988238997,-0.016001016001524038,rewrite/rewrite,1218_170623
+s400_comb.aig,done,32,3,0.10911757651468329,-0.016001016001524038,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170623
+cavlc.aig,init,119,6,0,0,[],1218_170623
+cavlc.aig,reset,119,6,0.0,0.0,[],1218_170623
+cavlc.aig,max,119,6,0,0,[],1218_170625
+cavlc.aig,done,119,6,0.0,0.0,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170625
+comp_comb.aig,init,27,5,0,0,[],1218_170625
+comp_comb.aig,reset,28,4,0.009265993822614749,0.18531987645229497,[],1218_170625
+comp_comb.aig,max,28,4,0,0.18531987645229497,[],1218_170627
+comp_comb.aig,done,28,4,-0.18531987645229503,0.18531987645229497,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170627
+mux_cl_comb.aig,init,37,4,0,0,[],1218_170627
+mux_cl_comb.aig,reset,10,3,0.030504678315873633,0.6100935663174727,[],1218_170627
+mux_cl_comb.aig,max,10,3,0,0.6100935663174727,[],1218_170628
+mux_cl_comb.aig,done,10,3,-0.6100935663174727,0.6100935663174727,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170628
+s1238_comb.aig,init,135,9,0,0,[],1218_170629
+s1238_comb.aig,reset,135,8,0.005555555555555558,0.11111111111111116,[],1218_170629
+s1238_comb.aig,max,135,8,0,0.11111111111111116,[],1218_170631
+s1238_comb.aig,done,135,8,-0.1111111111111112,0.11111111111111116,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170631
+s820_comb.aig,init,81,5,0,0,[],1218_170631
+s820_comb.aig,reset,78,4,0.010747729482987346,0.2149545896597469,[],1218_170631
+s820_comb.aig,max,78,4,0,0.2149545896597469,[],1218_170633
+s820_comb.aig,done,78,4,-0.21495458965974698,0.2149545896597469,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170633
+C499.iscas_comb.aig,init,60,4,0,0,[],1218_170633
+C499.iscas_comb.aig,reset,73,5,-0.018939133782392904,-0.37878267564785806,[],1218_170633
+C499.iscas_comb.aig,max,68,5,0.10487345843909401,-0.33072661855594276,rewrite/rewrite/rewrite,1218_170635
+C499.iscas_comb.aig,done,68,5,0.4268387327397735,-0.33072661855594276,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170635
+b05_comb.aig,init,150,8,0,0,[],1218_170635
+b05_comb.aig,reset,115,8,0.006220248211454343,0.12440496422908687,[],1218_170635
+b05_comb.aig,max,113,8,0.001427016473356352,0.13205222891389756,rewrite,1218_170637
+b05_comb.aig,done,113,8,-0.11675769954427613,0.13205222891389756,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170637
+comp_comb.aig,init,27,5,0,0,[],1218_170637
+comp_comb.aig,reset,28,4,0.009265993822614749,0.18531987645229497,[],1218_170638
+comp_comb.aig,max,28,4,0,0.18531987645229497,[],1218_170639
+comp_comb.aig,done,28,4,-0.18531987645229503,0.18531987645229497,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170639
+C1908.iscas_comb.aig,init,96,11,0,0,[],1218_170639
+C1908.iscas_comb.aig,reset,93,9,0.009735187007894146,0.19470374015788294,[],1218_170639
+C1908.iscas_comb.aig,max,91,9,-0.010764212733756905,0.20340990143991433,rewrite/rewrite,1218_170641
+C1908.iscas_comb.aig,done,91,9,-0.1859975788758515,0.20340990143991433,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170641
+b11_comb.aig,init,164,6,0,0,[],1218_170641
+b11_comb.aig,reset,153,5,0.009754942736450955,0.1950988547290191,[],1218_170642
+b11_comb.aig,max,149,5,-0.008918619456763775,0.20569012074515725,rewrite/rewrite,1218_170643
+b11_comb.aig,done,149,5,-0.18450758871288092,0.20569012074515725,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170643
+C880.iscas_comb.aig,init,82,10,0,0,[],1218_170643
+C880.iscas_comb.aig,reset,74,9,0.007251444183572192,0.14502888367144384,[],1218_170644
+C880.iscas_comb.aig,max,74,9,0,0.14502888367144384,[],1218_170645
+C880.iscas_comb.aig,done,74,9,-0.14502888367144384,0.14502888367144384,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170645
+b05_comb.aig,init,150,8,0,0,[],1218_170645
+b05_comb.aig,reset,115,8,0.006220248211454343,0.12440496422908687,[],1218_170646
+b05_comb.aig,max,113,8,0.001427016473356352,0.13205222891389756,rewrite,1218_170648
+b05_comb.aig,done,113,8,-0.11675769954427613,0.13205222891389756,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170648
+s510_comb.aig,init,46,3,0,0,[],1218_170648
+s510_comb.aig,reset,45,4,-0.0159380473395787,-0.31876094679157396,[],1218_170648
+s510_comb.aig,max,44,4,0.22192983708122851,-0.3040257251248686,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/balance,1218_170649
+s510_comb.aig,done,46,4,0.3041885602498148,-0.33333333333333326,rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/rewrite/balance/balance/balance/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170649
+s510_comb.aig,init,46,3,0,0,[],1218_170649
+s510_comb.aig,reset,45,4,-0.0159380473395787,-0.31876094679157396,[],1218_170650
+s510_comb.aig,max,44,4,0.2697439790999646,-0.3040257251248686,rewrite/rewrite/rewrite/rewrite/refactor/refactor/refactor/rewrite/rewrite/rewrite/rewrite/rewrite/refactor/refactor/refactor/balance,1218_170650
+s510_comb.aig,done,44,4,0.33349616845827945,-0.3040257251248686,rewrite/rewrite/rewrite/rewrite/refactor/refactor/refactor/rewrite/rewrite/rewrite/rewrite/rewrite/refactor/refactor/refactor/balance/balance/balance/balance/balance,1218_170650
+cavlc.aig,init,119,6,0,0,[],1218_170650
+cavlc.aig,reset,119,6,0.0,0.0,[],1218_170651
+cavlc.aig,max,119,6,0,0,[],1218_170651
+cavlc.aig,done,119,6,0.0,0.0,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170651
+b10_comb.aig,init,62,3,0,0,[],1218_170651
+b10_comb.aig,reset,44,3,0.007878823041288402,0.15757646082576804,[],1218_170652
+b10_comb.aig,max,44,3,0,0.15757646082576804,[],1218_170652
+b10_comb.aig,done,43,4,-0.4255469554945971,-0.11039403384306112,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170652
+C499.iscas_comb.aig,init,60,4,0,0,[],1218_170652
+C499.iscas_comb.aig,reset,73,5,-0.018939133782392904,-0.37878267564785806,[],1218_170654
+C499.iscas_comb.aig,max,60,4,0,0,[],1218_170655
+C499.iscas_comb.aig,done,73,5,0.37878267564785817,-0.37878267564785806,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170655
+s526_comb.aig,init,40,3,0,0,[],1218_170655
+s526_comb.aig,reset,32,2,0.020185760300002808,0.40371520600005617,[],1218_170655
+s526_comb.aig,max,32,2,0,0.40371520600005617,[],1218_170655
+s526_comb.aig,done,32,2,-0.40371520600005606,0.40371520600005617,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170655
+s1196_comb.aig,init,133,8,0,0,[],1218_170655
+s1196_comb.aig,reset,122,7,0.00809825088439185,0.161965017687837,[],1218_170656
+s1196_comb.aig,max,122,7,0,0.161965017687837,[],1218_170657
+s1196_comb.aig,done,122,7,-0.1619650176878371,0.161965017687837,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170657
+C1908.iscas_comb.aig,init,96,11,0,0,[],1218_170657
+C1908.iscas_comb.aig,reset,93,9,0.009735187007894146,0.19470374015788294,[],1218_170657
+C1908.iscas_comb.aig,max,90,9,-0.10372712324958448,0.20779886100302825,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor,1218_170658
+C1908.iscas_comb.aig,done,90,9,-0.1816086193127376,0.20779886100302825,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor/refactor/balance/balance/balance/balance/balance,1218_170658
+apex7_comb.aig,init,63,7,0,0,[],1218_170658
+apex7_comb.aig,reset,57,5,0.016028938171023504,0.3205787634204701,[],1218_170658
+apex7_comb.aig,max,54,5,-0.12613927822578974,0.3386999287338919,balance/balance/balance/balance/balance/balance/balance/refactor/refactor,1218_170658
+apex7_comb.aig,done,54,5,-0.30245759810704825,0.3386999287338919,balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor/refactor/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170658
+b9_comb.aig,init,34,3,0,0,[],1218_170658
+b9_comb.aig,reset,33,2,0.017160521128540735,0.3432104225708147,[],1218_170659
+b9_comb.aig,max,33,2,0,0.3432104225708147,[],1218_170659
+b9_comb.aig,done,33,2,-0.3432104225708147,0.3432104225708147,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170659
+C1908.iscas_comb.aig,init,96,11,0,0,[],1218_170659
+C1908.iscas_comb.aig,reset,93,9,0.009735187007894146,0.19470374015788294,[],1218_170700
+C1908.iscas_comb.aig,max,93,9,0,0.19470374015788294,[],1218_170700
+C1908.iscas_comb.aig,done,93,9,-0.1947037401578829,0.19470374015788294,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170700
+s1488_comb.aig,init,152,5,0,0,[],1218_170700
+s1488_comb.aig,reset,147,4,0.010663395913568852,0.21326791827137703,[],1218_170701
+s1488_comb.aig,max,147,4,0,0.21326791827137703,[],1218_170701
+s1488_comb.aig,done,148,4,-0.21593934219549826,0.2105964943472558,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170701
+b9_comb.aig,init,34,3,0,0,[],1218_170701
+b9_comb.aig,reset,33,2,0.017160521128540735,0.3432104225708147,[],1218_170702
+b9_comb.aig,max,33,2,0,0.3432104225708147,[],1218_170702
+b9_comb.aig,done,33,2,-0.3432104225708147,0.3432104225708147,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170702
+b10_comb.aig,init,62,3,0,0,[],1218_170702
+b10_comb.aig,reset,44,3,0.007878823041288402,0.15757646082576804,[],1218_170702
+b10_comb.aig,max,44,3,0,0.15757646082576804,[],1218_170702
+b10_comb.aig,done,43,4,-0.4255469554945971,-0.11039403384306112,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170702
+b9_comb.aig,init,34,3,0,0,[],1218_170702
+b9_comb.aig,reset,33,2,0.017160521128540735,0.3432104225708147,[],1218_170703
+b9_comb.aig,max,33,2,0,0.3432104225708147,[],1218_170703
+b9_comb.aig,done,33,2,-0.3432104225708147,0.3432104225708147,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170703
+b10_comb.aig,init,62,3,0,0,[],1218_170703
+b10_comb.aig,reset,44,3,0.007878823041288402,0.15757646082576804,[],1218_170704
+b10_comb.aig,max,44,3,0,0.15757646082576804,[],1218_170704
+b10_comb.aig,done,43,4,-0.4255469554945971,-0.11039403384306112,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170704
+s510_comb.aig,init,46,3,0,0,[],1218_170704
+s510_comb.aig,reset,45,4,-0.0159380473395787,-0.31876094679157396,[],1218_170704
+s510_comb.aig,max,44,4,0.030673269006284077,-0.3040257251248686,balance,1218_170704
+s510_comb.aig,done,44,4,0.33349616845827945,-0.3040257251248686,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170704
+b9_comb.aig,init,34,3,0,0,[],1218_170704
+b9_comb.aig,reset,33,2,0.017160521128540735,0.3432104225708147,[],1218_170705
+b9_comb.aig,max,33,2,0,0.3432104225708147,[],1218_170705
+b9_comb.aig,done,33,2,-0.3432104225708147,0.3432104225708147,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170705
+s526n_comb.aig,init,35,3,0,0,[],1218_170705
+s526n_comb.aig,reset,29,3,0.0044870505083600245,0.08974101016720049,[],1218_170706
+s526n_comb.aig,max,29,3,0,0.08974101016720049,[],1218_170706
+s526n_comb.aig,done,29,3,-0.08974101016720051,0.08974101016720049,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170706
+ttt2_comb.aig,init,52,3,0,0,[],1218_170706
+ttt2_comb.aig,reset,33,3,0.010168624659215425,0.2033724931843085,[],1218_170706
+ttt2_comb.aig,max,34,2,0.24738718878138288,0.4609283066249068,balance,1218_170706
+ttt2_comb.aig,done,34,2,0.054183320256289906,0.4609283066249068,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170706
+b9_comb.aig,init,34,3,0,0,[],1218_170706
+b9_comb.aig,reset,33,2,0.017160521128540735,0.3432104225708147,[],1218_170707
+b9_comb.aig,max,33,2,0,0.3432104225708147,[],1218_170707
+b9_comb.aig,done,33,2,-0.3432104225708147,0.3432104225708147,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170707
+b03_comb.aig,init,80,5,0,0,[],1218_170707
+b03_comb.aig,reset,70,3,0.02193756959919544,0.4387513919839088,[],1218_170707
+b03_comb.aig,max,70,3,0,0.4387513919839088,[],1218_170708
+b03_comb.aig,done,70,3,-0.43875139198390894,0.4387513919839088,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170708
+lal_comb.aig,init,37,3,0,0,[],1218_170708
+lal_comb.aig,reset,24,2,0.02315375779143903,0.46307515582878056,[],1218_170708
+lal_comb.aig,max,24,2,0,0.46307515582878056,[],1218_170708
+lal_comb.aig,done,24,2,-0.4630751558287805,0.46307515582878056,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite/rewrite/rewrite/rewrite/balance/balance/balance/balance/balance,1218_170708
+s838_1_comb.aig,init,113,8,0,0,[],1218_170708
+s838_1_comb.aig,reset,88,6,0.016907210100040947,0.33814420200081896,[],1218_170709
+s838_1_comb.aig,max,87,6,-0.03004313139325225,0.3419154908076486,balance/balance,1218_170709
+s838_1_comb.aig,done,87,6,-0.33437291319398926,0.3419154908076486,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170709
+b11_comb.aig,init,164,6,0,0,[],1218_170709
+b11_comb.aig,reset,153,5,0.009754942736450955,0.1950988547290191,[],1218_170710
+b11_comb.aig,max,153,5,0,0.1950988547290191,[],1218_170710
+b11_comb.aig,done,153,5,-0.1950988547290189,0.1950988547290191,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170710
+term1_comb.aig,init,74,5,0,0,[],1218_170710
+term1_comb.aig,reset,38,4,0.02133605711662086,0.4267211423324172,[],1218_170711
+term1_comb.aig,max,38,4,0,0.4267211423324172,[],1218_170711
+term1_comb.aig,done,38,4,-0.42672114233241715,0.4267211423324172,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170711
+s713_comb.aig,init,50,6,0,0,[],1218_170711
+s713_comb.aig,reset,50,7,-0.008333333333333337,-0.16666666666666674,[],1218_170711
+s713_comb.aig,max,50,6,0,0,[],1218_170712
+s713_comb.aig,done,50,7,0.16666666666666669,-0.16666666666666674,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170712
+s713_comb.aig,init,50,6,0,0,[],1218_170712
+s713_comb.aig,reset,50,7,-0.008333333333333337,-0.16666666666666674,[],1218_170712
+s713_comb.aig,max,50,6,0,0,[],1218_170712
+s713_comb.aig,done,50,7,0.16666666666666669,-0.16666666666666674,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170712
+cavlc.aig,init,119,6,0,0,[],1218_170712
+cavlc.aig,reset,119,6,0.0,0.0,[],1218_170713
+cavlc.aig,max,119,6,0,0,[],1218_170713
+cavlc.aig,done,119,6,0.0,0.0,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170713
+ttt2_comb.aig,init,52,3,0,0,[],1218_170713
+ttt2_comb.aig,reset,33,3,0.010168624659215425,0.2033724931843085,[],1218_170714
+ttt2_comb.aig,max,34,2,0.24738718878138288,0.4609283066249068,balance,1218_170714
+ttt2_comb.aig,done,34,2,0.054183320256289906,0.4609283066249068,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170714
+s510_comb.aig,init,46,3,0,0,[],1218_170714
+s510_comb.aig,reset,45,4,-0.0159380473395787,-0.31876094679157396,[],1218_170714
+s510_comb.aig,max,44,4,0.030673269006284077,-0.3040257251248686,balance,1218_170714
+s510_comb.aig,done,44,4,0.33349616845827945,-0.3040257251248686,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170714
+b13_comb.aig,init,49,3,0,0,[],1218_170715
+b13_comb.aig,reset,47,4,-0.015291948575248026,-0.30583897150496053,[],1218_170715
+b13_comb.aig,max,49,3,0,0,[],1218_170715
+b13_comb.aig,done,47,4,0.3058389715049604,-0.30583897150496053,balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/refactor -z/refactor -z/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170715
+term1_comb.aig,init,74,5,0,0,[],1218_170715
+term1_comb.aig,reset,38,4,0.02133605711662086,0.4267211423324172,[],1218_170716
+term1_comb.aig,max,38,4,0,0.4267211423324172,[],1218_170716
+term1_comb.aig,done,38,4,-0.42672114233241715,0.4267211423324172,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170716
+C499.iscas_comb.aig,init,60,4,0,0,[],1218_170716
+C499.iscas_comb.aig,reset,73,5,-0.018939133782392904,-0.37878267564785806,[],1218_170716
+C499.iscas_comb.aig,max,60,4,0,0,[],1218_170717
+C499.iscas_comb.aig,done,73,5,0.37878267564785817,-0.37878267564785806,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170717
+c8_comb.aig,init,37,3,0,0,[],1218_170717
+c8_comb.aig,reset,27,3,0.007287890191137547,0.14575780382275094,[],1218_170717
+c8_comb.aig,max,26,2,0.24437786864934669,0.4411509038100605,balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z,1218_170718
+c8_comb.aig,done,26,2,0.14963529616455865,0.4411509038100605,balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170718
+b05_comb.aig,init,150,8,0,0,[],1218_170718
+b05_comb.aig,reset,115,8,0.006220248211454343,0.12440496422908687,[],1218_170718
+b05_comb.aig,max,115,8,0,0.12440496422908687,[],1218_170719
+b05_comb.aig,done,115,8,-0.12440496422908683,0.12440496422908687,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170719
+s820_comb.aig,init,81,5,0,0,[],1218_170719
+s820_comb.aig,reset,78,4,0.010747729482987346,0.2149545896597469,[],1218_170719
+s820_comb.aig,max,78,4,0,0.2149545896597469,[],1218_170719
+s820_comb.aig,done,78,4,-0.21495458965974712,0.2149545896597469,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170719
+s838_1_comb.aig,init,113,8,0,0,[],1218_170720
+s838_1_comb.aig,reset,88,6,0.016907210100040947,0.33814420200081896,[],1218_170720
+s838_1_comb.aig,max,87,6,-0.03004313139325225,0.3419154908076486,balance/balance,1218_170720
+s838_1_comb.aig,done,87,6,-0.33437291319398926,0.3419154908076486,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170720
+s1196_comb.aig,init,133,8,0,0,[],1218_170720
+s1196_comb.aig,reset,122,7,0.00809825088439185,0.161965017687837,[],1218_170721
+s1196_comb.aig,max,122,7,0,0.161965017687837,[],1218_170721
+s1196_comb.aig,done,121,8,-0.27775100185220614,0.04617903352346797,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z/rewrite -z/balance/balance/balance,1218_170721
+cavlc.aig,init,119,6,0,0,[],1218_170721
+cavlc.aig,reset,119,6,0.0,0.0,[],1218_170722
+cavlc.aig,max,119,6,0,0,[],1218_170722
+cavlc.aig,done,119,6,0.0,0.0,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170722
+lal_comb.aig,init,37,3,0,0,[],1218_170722
+lal_comb.aig,reset,24,2,0.02315375779143903,0.46307515582878056,[],1218_170723
+lal_comb.aig,max,24,2,0,0.46307515582878056,[],1218_170723
+lal_comb.aig,done,24,2,-0.4630751558287805,0.46307515582878056,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170723
+C880.iscas_comb.aig,init,82,10,0,0,[],1218_170723
+C880.iscas_comb.aig,reset,74,9,0.007251444183572192,0.14502888367144384,[],1218_170723
+C880.iscas_comb.aig,max,74,9,0,0.14502888367144384,[],1218_170724
+C880.iscas_comb.aig,done,74,9,-0.14502888367144384,0.14502888367144384,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170724
+C880.iscas_comb.aig,init,82,10,0,0,[],1218_170724
+C880.iscas_comb.aig,reset,74,9,0.007251444183572192,0.14502888367144384,[],1218_170724
+C880.iscas_comb.aig,max,74,9,0,0.14502888367144384,[],1218_170725
+C880.iscas_comb.aig,done,77,10,-0.25909047589503065,0.030967291447857037,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z,1218_170725
+s526n_comb.aig,init,35,3,0,0,[],1218_170725
+s526n_comb.aig,reset,29,3,0.0044870505083600245,0.08974101016720049,[],1218_170725
+s526n_comb.aig,max,32,2,0.2548555294876828,0.3625447416883234,balance/balance/rewrite -z/balance,1218_170725
+s526n_comb.aig,done,32,2,0.1830627213539226,0.3625447416883234,balance/balance/rewrite -z/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170725
+ttt2_comb.aig,init,52,3,0,0,[],1218_170725
+ttt2_comb.aig,reset,33,3,0.010168624659215425,0.2033724931843085,[],1218_170726
+ttt2_comb.aig,max,34,2,0.24738718878138288,0.4609283066249068,balance,1218_170726
+ttt2_comb.aig,done,34,2,0.054183320256289906,0.4609283066249068,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170726
+c8_comb.aig,init,37,3,0,0,[],1218_170726
+c8_comb.aig,reset,27,3,0.007287890191137547,0.14575780382275094,[],1218_170728
+c8_comb.aig,max,27,3,0,0.14575780382275094,[],1218_170728
+c8_comb.aig,done,27,3,-0.1457578038227509,0.14575780382275094,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170728
+s838_1_comb.aig,init,113,8,0,0,[],1218_170728
+s838_1_comb.aig,reset,88,6,0.016907210100040947,0.33814420200081896,[],1218_170728
+s838_1_comb.aig,max,86,5,0.08279847504029242,0.4547570972411933,rewrite/balance,1218_170729
+s838_1_comb.aig,done,86,5,-0.2215313067604447,0.4547570972411933,rewrite/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170729
+s400_comb.aig,init,31,3,0,0,[],1218_170729
+s400_comb.aig,reset,35,3,-0.003127964812905182,-0.06255929625810364,[],1218_170729
+s400_comb.aig,max,34,3,0.05908092746149053,-0.04726987617728562,rewrite -z/rewrite -z/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z/balance/rewrite -z,1218_170730
+s400_comb.aig,done,34,3,0.07784871633892164,-0.04726987617728562,rewrite -z/rewrite -z/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z/balance/rewrite -z/balance/balance/balance/balance/balance/balance,1218_170730
+b9_comb.aig,init,34,3,0,0,[],1218_170730
+b9_comb.aig,reset,33,2,0.017160521128540735,0.3432104225708147,[],1218_170730
+b9_comb.aig,max,33,2,0,0.3432104225708147,[],1218_170730
+b9_comb.aig,done,33,2,-0.3432104225708147,0.3432104225708147,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170730
+b13_comb.aig,init,49,3,0,0,[],1218_170730
+b13_comb.aig,reset,47,4,-0.015291948575248026,-0.30583897150496053,[],1218_170731
+b13_comb.aig,max,49,3,0,0,[],1218_170731
+b13_comb.aig,done,47,4,0.3058389715049604,-0.30583897150496053,balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170731
+pcler8_cl_comb.aig,init,23,3,0,0,[],1218_170731
+pcler8_cl_comb.aig,reset,23,3,0.0,0.0,[],1218_170732
+pcler8_cl_comb.aig,max,23,3,0,0,[],1218_170732
+pcler8_cl_comb.aig,done,23,3,0.0,0.0,balance/balance/balance/balance/balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170732
+C499.iscas_comb.aig,init,60,4,0,0,[],1218_170732
+C499.iscas_comb.aig,reset,73,5,-0.018939133782392904,-0.37878267564785806,[],1218_170733
+C499.iscas_comb.aig,max,60,4,0,0,[],1218_170733
+C499.iscas_comb.aig,done,73,5,0.37878267564785817,-0.37878267564785806,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170733
+s526n_comb.aig,init,35,3,0,0,[],1218_170733
+s526n_comb.aig,reset,29,3,0.0044870505083600245,0.08974101016720049,[],1218_170733
+s526n_comb.aig,max,32,2,0.21895912542080262,0.3625447416883234,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z/balance,1218_170734
+s526n_comb.aig,done,29,3,-0.0897410101672004,0.08974101016720049,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z/balance/balance/balance/balance/balance/balance/balance/balance/rewrite,1218_170734
+s400_comb.aig,init,31,3,0,0,[],1218_170734
+s400_comb.aig,reset,35,3,-0.003127964812905182,-0.06255929625810364,[],1218_170734
+s400_comb.aig,max,32,3,0.08409385801144176,-0.016001016001524038,balance/balance/balance/balance/balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z/balance,1218_170735
+s400_comb.aig,done,32,3,0.10911757651468323,-0.016001016001524038,balance/balance/balance/balance/balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170735
+simple_spi_comb.aig,init,121,4,0,0,[],1218_170735
+simple_spi_comb.aig,reset,118,4,0.000623725039999018,0.01247450079998036,[],1218_170735
+simple_spi_comb.aig,max,118,4,0,0.01247450079998036,[],1218_170736
+simple_spi_comb.aig,done,119,4,-0.016650102930480196,0.008298898669480526,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z,1218_170736
+pcler8_cl_comb.aig,init,23,3,0,0,[],1218_170736
+pcler8_cl_comb.aig,reset,23,3,0.0,0.0,[],1218_170736
+pcler8_cl_comb.aig,max,23,3,0,0,[],1218_170737
+pcler8_cl_comb.aig,done,23,3,0.0,0.0,rewrite -z/rewrite -z/rewrite -z/rewrite -z/rewrite -z/rewrite -z/rewrite -z/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170737
+pcler8_cl_comb.aig,init,23,3,0,0,[],1218_170737
+pcler8_cl_comb.aig,reset,23,3,0.0,0.0,[],1218_170737
+pcler8_cl_comb.aig,max,23,3,0,0,[],1218_170737
+pcler8_cl_comb.aig,done,23,3,0.0,0.0,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/balance/balance,1218_170737
+usb_phy_comb.aig,init,99,2,0,0,[],1218_170738
+usb_phy_comb.aig,reset,99,2,0.0,0.0,[],1218_170738
+usb_phy_comb.aig,max,99,2,0,0,[],1218_170738
+usb_phy_comb.aig,done,100,2,-0.005037815259212097,-0.005037815259212097,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z,1218_170738
+s713_comb.aig,init,50,6,0,0,[],1218_170738
+s713_comb.aig,reset,50,7,-0.008333333333333337,-0.16666666666666674,[],1218_170739
+s713_comb.aig,max,49,7,0.02005892406197244,-0.15494107593802764,rewrite -z,1218_170739
+s713_comb.aig,done,50,7,0.16666666666666674,-0.16666666666666674,rewrite -z/rewrite -z/rewrite -z/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z/balance,1218_170739
+int2float.aig,init,50,5,0,0,[],1218_170739
+int2float.aig,reset,48,4,0.010808164115469148,0.21616328230938298,[],1218_170740
+int2float.aig,max,48,4,0,0.21616328230938298,[],1218_170740
+int2float.aig,done,48,4,-0.21616328230938286,0.21616328230938298,balance/balance/balance/rewrite -z/balance/rewrite -z/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170740
+b9_comb.aig,init,34,3,0,0,[],1218_170740
+b9_comb.aig,reset,33,2,0.017160521128540735,0.3432104225708147,[],1218_170741
+b9_comb.aig,max,33,2,0,0.3432104225708147,[],1218_170741
+b9_comb.aig,done,33,2,-0.3432104225708147,0.3432104225708147,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z,1218_170741
+sasc_comb.aig,init,80,2,0,0,[],1218_170741
+sasc_comb.aig,reset,77,2,0.0009464578241285381,0.018929156482570764,[],1218_170741
+sasc_comb.aig,max,77,2,0,0.018929156482570764,[],1218_170742
+sasc_comb.aig,done,77,2,-0.018929156482570757,0.018929156482570764,rewrite -z/rewrite -z/rewrite -z/balance/balance/balance/balance/rewrite/rewrite/rewrite/rewrite/rewrite -z/rewrite -z/rewrite -z/rewrite -z/balance/balance/balance/rewrite -z/rewrite -z,1218_170742
+b03_comb.aig,init,80,5,0,0,[],1218_170742
+b03_comb.aig,reset,70,3,0.02193756959919544,0.4387513919839088,[],1218_170743
+b03_comb.aig,max,70,3,0,0.4387513919839088,[],1218_170743
+b03_comb.aig,done,69,4,-0.6204698088080863,0.25703297515973156,rewrite -z/rewrite -z/rewrite -z/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170743
+sasc_comb.aig,init,80,2,0,0,[],1218_170743
+sasc_comb.aig,reset,77,2,0.0009464578241285381,0.018929156482570764,[],1218_170744
+sasc_comb.aig,max,77,2,0,0.018929156482570764,[],1218_170744
+sasc_comb.aig,done,77,2,-0.018929156482570757,0.018929156482570764,balance/balance/balance/balance/balance/balance/balance/rewrite/rewrite/rewrite/rewrite/balance/balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/balance/balance,1218_170744
+s15850_comb.aig,init,136,7,0,0,[],1218_170744
+s15850_comb.aig,reset,134,5,0.014549291952339904,0.2909858390467981,[],1218_170745
+s15850_comb.aig,max,134,5,0,0.2909858390467981,[],1218_170745
+s15850_comb.aig,done,134,5,-0.29098583904679787,0.2909858390467981,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170745
+b05_comb.aig,init,150,8,0,0,[],1218_170745
+b05_comb.aig,reset,115,8,0.006220248211454343,0.12440496422908687,[],1218_170746
+b05_comb.aig,max,115,8,0,0.12440496422908687,[],1218_170747
+b05_comb.aig,done,130,9,-0.2961279317408442,-0.04731800328267055,balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z/rewrite -z,1218_170747
+cavlc.aig,init,119,6,0,0,[],1218_170747
+cavlc.aig,reset,119,6,0.0,0.0,[],1218_170748
+cavlc.aig,max,118,5,0.17017545418078228,0.17017545418078228,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z/rewrite -z,1218_170748
+cavlc.aig,done,118,5,0.17017545418078228,0.17017545418078228,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z/rewrite -z,1218_170748
+ttt2_comb.aig,init,52,3,0,0,[],1218_170748
+ttt2_comb.aig,reset,33,3,0.010168624659215425,0.2033724931843085,[],1218_170749
+ttt2_comb.aig,max,35,2,0.1988426140913698,0.4530582305717554,rewrite -z/rewrite -z/rewrite -z/balance/balance,1218_170750
+ttt2_comb.aig,done,33,3,-0.20337249318430842,0.2033724931843085,rewrite -z/rewrite -z/rewrite -z/balance/balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite/rewrite -z/rewrite -z/rewrite -z/rewrite -z/balance/balance/balance/balance/rewrite -z,1218_170750
+c8_comb.aig,init,37,3,0,0,[],1218_170750
+c8_comb.aig,reset,27,3,0.007287890191137547,0.14575780382275094,[],1218_170750
+c8_comb.aig,max,26,3,-0.020470899063348036,0.16172635571509064,balance/balance/balance/rewrite/rewrite,1218_170751
+c8_comb.aig,done,26,3,-0.12978925193041121,0.16172635571509064,balance/balance/balance/rewrite/rewrite/rewrite/rewrite/balance/balance/balance/balance/balance/rewrite/rewrite/rewrite/balance/balance/balance/balance/rewrite,1218_170751
+ttt2_comb.aig,init,52,3,0,0,[],1218_170751
+ttt2_comb.aig,reset,33,3,0.010168624659215425,0.2033724931843085,[],1218_170751
+ttt2_comb.aig,max,34,2,0.2168813148037366,0.4609283066249068,rewrite -z/rewrite -z/balance/balance,1218_170752
+ttt2_comb.aig,done,35,2,0.0463132442031385,0.4530582305717554,rewrite -z/rewrite -z/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z/balance/rewrite -z/balance/balance/balance/rewrite -z/balance/balance,1218_170752
+b03_comb.aig,init,80,5,0,0,[],1218_170752
+b03_comb.aig,reset,70,3,0.02193756959919544,0.4387513919839088,[],1218_170752
+b03_comb.aig,max,69,3,-0.43472805259801917,0.4427747313697987,balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z/rewrite -z/balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z/refactor/refactor/refactor/refactor/balance,1218_170753
+b03_comb.aig,done,69,3,-0.43472805259801917,0.4427747313697987,balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z/rewrite -z/balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z/refactor/refactor/refactor/refactor/balance,1218_170753
+ttt2_comb.aig,init,52,3,0,0,[],1218_170753
+ttt2_comb.aig,reset,33,3,0.010168624659215425,0.2033724931843085,[],1218_170754
+ttt2_comb.aig,max,33,2,0.1333503817020968,0.46891499545620574,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z/balance/refactor,1218_170754
+ttt2_comb.aig,done,31,3,-0.17885498251802967,0.22789000385058722,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z/balance/refactor/balance/refactor/balance/balance/balance/rewrite -z/rewrite,1218_170754
+lal_comb.aig,init,37,3,0,0,[],1218_170754
+lal_comb.aig,reset,24,2,0.02315375779143903,0.46307515582878056,[],1218_170754
+lal_comb.aig,max,24,2,0,0.46307515582878056,[],1218_170755
+lal_comb.aig,done,25,2,-0.47414693600875196,0.4520033756488091,balance/balance/balance/rewrite/rewrite/rewrite/rewrite/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z/balance,1218_170755
+b9_comb.aig,init,34,3,0,0,[],1218_170755
+b9_comb.aig,reset,33,2,0.017160521128540735,0.3432104225708147,[],1218_170755
+b9_comb.aig,max,33,2,0,0.3432104225708147,[],1218_170756
+b9_comb.aig,done,33,2,-0.3432104225708147,0.3432104225708147,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z,1218_170756
+s526n_comb.aig,init,35,3,0,0,[],1218_170756
+s526n_comb.aig,reset,29,3,0.0044870505083600245,0.08974101016720049,[],1218_170756
+s526n_comb.aig,max,29,3,0,0.08974101016720049,[],1218_170756
+s526n_comb.aig,done,29,3,-0.08974101016720051,0.08974101016720049,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z,1218_170756
+s510_comb.aig,init,46,3,0,0,[],1218_170756
+s510_comb.aig,reset,45,4,-0.0159380473395787,-0.31876094679157396,[],1218_170757
+s510_comb.aig,max,42,4,0.06065487958994063,-0.274044114541212,rewrite -z,1218_170757
+s510_comb.aig,done,44,4,0.3334961684582795,-0.3040257251248686,rewrite -z/rewrite -z/rewrite -z/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170757
+lal_comb.aig,init,37,3,0,0,[],1218_170757
+lal_comb.aig,reset,24,2,0.02315375779143903,0.46307515582878056,[],1218_170758
+lal_comb.aig,max,24,2,0,0.46307515582878056,[],1218_170758
+lal_comb.aig,done,24,2,-0.4630751558287805,0.46307515582878056,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite/rewrite/rewrite/rewrite -z/balance/balance/balance/balance/refactor,1218_170758
+s1238_comb.aig,init,135,9,0,0,[],1218_170758
+s1238_comb.aig,reset,135,8,0.005555555555555558,0.11111111111111116,[],1218_170758
+s1238_comb.aig,max,132,8,-0.09006796884096759,0.12104314227014368,balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z,1218_170759
+s1238_comb.aig,done,145,8,-0.14344484474951275,0.07877737747270963,balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z/rewrite -z/rewrite -z,1218_170759
+b9_comb.aig,init,34,3,0,0,[],1218_170759
+b9_comb.aig,reset,33,2,0.017160521128540735,0.3432104225708147,[],1218_170800
+b9_comb.aig,max,32,2,-0.07577469497707287,0.3532383332364455,balance/balance/balance/rewrite -z/rewrite -z,1218_170802
+b9_comb.aig,done,33,2,-0.3432104225708147,0.3432104225708147,balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite/rewrite/rewrite/balance,1218_170802
+s15850_comb.aig,init,136,7,0,0,[],1218_170802
+s15850_comb.aig,reset,134,5,0.014549291952339904,0.2909858390467981,[],1218_170802
+s15850_comb.aig,max,131,4,-0.05550193355480315,0.43917399282475345,balance/balance/balance/balance/balance/balance/balance/rewrite/rewrite/rewrite/rewrite/balance/balance/balance,1218_170803
+s15850_comb.aig,done,131,4,-0.1427976852688425,0.43917399282475345,balance/balance/balance/balance/balance/balance/balance/rewrite/rewrite/rewrite/rewrite/balance/balance/balance/balance/refactor/refactor/balance/refactor/rewrite,1218_170803
+term1_comb.aig,init,74,5,0,0,[],1218_170803
+term1_comb.aig,reset,38,4,0.02133605711662086,0.4267211423324172,[],1218_170803
+term1_comb.aig,max,35,4,-0.31828230052265244,0.4498157556756984,rewrite -z/rewrite -z/rewrite -z/balance/balance/balance/balance/balance/balance/balance/balance/refactor/rewrite/rewrite/refactor/rewrite -z,1218_170804
+term1_comb.aig,done,36,5,-0.55092811712775,0.30251416753708427,rewrite -z/rewrite -z/rewrite -z/balance/balance/balance/balance/balance/balance/balance/balance/refactor/rewrite/rewrite/refactor/rewrite -z/rewrite -z/rewrite -z/rewrite -z/balance,1218_170804
+C432.iscas_comb.aig,init,54,13,0,0,[],1218_170804
+C432.iscas_comb.aig,reset,59,12,0.0017566981481364596,0.03513396296272919,[],1218_170805
+C432.iscas_comb.aig,max,59,12,0,0.03513396296272919,[],1218_170805
+C432.iscas_comb.aig,done,60,14,-0.20544452188333806,-0.13517659595787967,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/rewrite/rewrite/rewrite/rewrite/rewrite -z,1218_170805
+C880.iscas_comb.aig,init,82,10,0,0,[],1218_170805
+C880.iscas_comb.aig,reset,74,9,0.007251444183572192,0.14502888367144384,[],1218_170806
+C880.iscas_comb.aig,max,74,9,0,0.14502888367144384,[],1218_170806
+C880.iscas_comb.aig,done,74,9,-0.14502888367144384,0.14502888367144384,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/balance,1218_170806
+C1908.iscas_comb.aig,init,96,11,0,0,[],1218_170806
+C1908.iscas_comb.aig,reset,93,9,0.009735187007894146,0.19470374015788294,[],1218_170806
+C1908.iscas_comb.aig,max,90,9,-0.18160861931273758,0.20779886100302825,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor,1218_170807
+C1908.iscas_comb.aig,done,90,9,-0.18160861931273758,0.20779886100302825,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor,1218_170807
+lal_comb.aig,init,37,3,0,0,[],1218_170807
+lal_comb.aig,reset,24,2,0.02315375779143903,0.46307515582878056,[],1218_170807
+lal_comb.aig,max,24,2,0,0.46307515582878056,[],1218_170808
+lal_comb.aig,done,24,2,-0.4630751558287805,0.46307515582878056,balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z/balance/balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z/balance/refactor/refactor/refactor/balance,1218_170808
+s1488_comb.aig,init,152,5,0,0,[],1218_170808
+s1488_comb.aig,reset,147,4,0.010663395913568852,0.21326791827137703,[],1218_170808
+s1488_comb.aig,max,147,4,0,0.21326791827137703,[],1218_170809
+s1488_comb.aig,done,151,6,-0.6225819542946882,-0.19604611775193415,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z,1218_170809
+ttt2_comb.aig,init,52,3,0,0,[],1218_170809
+ttt2_comb.aig,reset,33,3,0.010168624659215425,0.2033724931843085,[],1218_170809
+ttt2_comb.aig,max,33,2,0.22486800363503553,0.46891499545620574,rewrite -z/rewrite/rewrite/balance,1218_170810
+ttt2_comb.aig,done,32,3,-0.1912095269213531,0.21553545944726382,rewrite -z/rewrite/rewrite/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/rewrite -z/balance/balance/rewrite -z/rewrite -z/balance,1218_170810
+C499.iscas_comb.aig,init,60,4,0,0,[],1218_170810
+C499.iscas_comb.aig,reset,73,5,-0.018939133782392904,-0.37878267564785806,[],1218_170811
+C499.iscas_comb.aig,max,60,4,0,0,[],1218_170811
+C499.iscas_comb.aig,done,73,5,0.37878267564785817,-0.37878267564785806,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170811
+s1196_comb.aig,init,133,8,0,0,[],1218_170811
+s1196_comb.aig,reset,122,7,0.00809825088439185,0.161965017687837,[],1218_170812
+s1196_comb.aig,max,122,7,0,0.161965017687837,[],1218_170812
+s1196_comb.aig,done,121,8,-0.27775100185220614,0.04617903352346797,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/balance/balance/balance/refactor/refactor,1218_170812
+sct_comb.aig,init,28,3,0,0,[],1218_170812
+sct_comb.aig,reset,21,2,0.021132486540518712,0.42264973081037427,[],1218_170812
+sct_comb.aig,max,21,2,0,0.42264973081037427,[],1218_170813
+sct_comb.aig,done,21,2,-0.4226497308103741,0.42264973081037427,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/balance/balance/balance/balance/refactor,1218_170813
+C880.iscas_comb.aig,init,82,10,0,0,[],1218_170813
+C880.iscas_comb.aig,reset,74,9,0.007251444183572192,0.14502888367144384,[],1218_170813
+C880.iscas_comb.aig,max,74,9,0,0.14502888367144384,[],1218_170813
+C880.iscas_comb.aig,done,74,9,-0.14502888367144384,0.14502888367144384,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite/refactor/balance,1218_170813
+s510_comb.aig,init,46,3,0,0,[],1218_170813
+s510_comb.aig,reset,45,4,-0.0159380473395787,-0.31876094679157396,[],1218_170814
+s510_comb.aig,max,44,4,0.030673269006284077,-0.3040257251248686,balance,1218_170814
+s510_comb.aig,done,41,5,0.06403995513325944,-0.5734819384498886,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z,1218_170814
+s713_comb.aig,init,50,6,0,0,[],1218_170814
+s713_comb.aig,reset,50,7,-0.008333333333333337,-0.16666666666666674,[],1218_170815
+s713_comb.aig,max,50,6,0,0,[],1218_170815
+s713_comb.aig,done,50,7,0.16666666666666669,-0.16666666666666674,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite/rewrite/rewrite,1218_170815
+b9_comb.aig,init,34,3,0,0,[],1218_170815
+b9_comb.aig,reset,33,2,0.017160521128540735,0.3432104225708147,[],1218_170815
+b9_comb.aig,max,33,2,0,0.3432104225708147,[],1218_170816
+b9_comb.aig,done,33,2,-0.3432104225708147,0.3432104225708147,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor,1218_170816
+b05_comb.aig,init,150,8,0,0,[],1218_170816
+b05_comb.aig,reset,115,8,0.006220248211454343,0.12440496422908687,[],1218_170816
+b05_comb.aig,max,115,8,0,0.12440496422908687,[],1218_170817
+b05_comb.aig,done,113,9,-0.22525117093003894,0.023558757528134744,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/balance,1218_170817
+s713_comb.aig,init,50,6,0,0,[],1218_170817
+s713_comb.aig,reset,50,7,-0.008333333333333337,-0.16666666666666674,[],1218_170817
+s713_comb.aig,max,50,6,0,0,[],1218_170817
+s713_comb.aig,done,50,7,0.16666666666666669,-0.16666666666666674,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/balance,1218_170817
+ADDERFDS_comb.aig,init,26,9,0,0,[],1218_170817
+ADDERFDS_comb.aig,reset,26,9,0.0,0.0,[],1218_170818
+ADDERFDS_comb.aig,max,26,9,0,0,[],1218_170818
+ADDERFDS_comb.aig,done,26,9,0.0,0.0,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor/refactor/rewrite,1218_170818
+s820_comb.aig,init,81,5,0,0,[],1218_170818
+s820_comb.aig,reset,78,4,0.010747729482987346,0.2149545896597469,[],1218_170819
+s820_comb.aig,max,78,4,0,0.2149545896597469,[],1218_170819
+s820_comb.aig,done,79,5,-0.41748633679900393,0.012422842520490085,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor/refactor/refactor,1218_170819
+C432.iscas_comb.aig,init,54,13,0,0,[],1218_170819
+C432.iscas_comb.aig,reset,59,12,0.0017566981481364596,0.03513396296272919,[],1218_170819
+C432.iscas_comb.aig,max,59,12,0,0.03513396296272919,[],1218_170820
+C432.iscas_comb.aig,done,57,13,-0.09767025975362127,-0.027402333828162817,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/balance,1218_170820
+steppermotordrive_comb.aig,init,48,5,0,0,[],1218_170820
+steppermotordrive_comb.aig,reset,45,4,0.01127016653792583,0.2254033307585166,[],1218_170820
+steppermotordrive_comb.aig,max,45,4,0,0.2254033307585166,[],1218_170820
+steppermotordrive_comb.aig,done,45,4,-0.22540333075851668,0.2254033307585166,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance,1218_170820
+z4ml_comb.aig,init,8,2,0,0,[],1218_170820
+z4ml_comb.aig,reset,7,2,0.0032292826653257333,0.06458565330651467,[],1218_170821
+z4ml_comb.aig,max,7,2,0,0.06458565330651467,[],1218_170821
+z4ml_comb.aig,done,7,2,-0.06458565330651465,0.06458565330651467,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor/refactor/balance,1218_170821
+mux_cl_comb.aig,init,37,4,0,0,[],1218_170821
+mux_cl_comb.aig,reset,10,3,0.030504678315873633,0.6100935663174727,[],1218_170821
+mux_cl_comb.aig,max,9,3,-0.5900848540719993,0.6301022785629461,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z,1218_170821
+mux_cl_comb.aig,done,9,3,-0.5900848540719993,0.6301022785629461,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z,1218_170821
+sasc_comb.aig,init,80,2,0,0,[],1218_170822
+sasc_comb.aig,reset,77,2,0.0009464578241285381,0.018929156482570764,[],1218_170822
+sasc_comb.aig,max,77,2,0,0.018929156482570764,[],1218_170823
+sasc_comb.aig,done,77,2,-0.018929156482570757,0.018929156482570764,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite/rewrite/rewrite/rewrite/rewrite -z,1218_170823
+s510_comb.aig,init,46,3,0,0,[],1218_170823
+s510_comb.aig,reset,45,4,-0.0159380473395787,-0.31876094679157396,[],1218_170823
+s510_comb.aig,max,42,4,0.3475397317023573,-0.274044114541212,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/balance,1218_170824
+s510_comb.aig,done,44,4,0.33349616845827945,-0.3040257251248686,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z/rewrite -z/rewrite -z/balance/balance,1218_170824
+s444_comb.aig,init,31,3,0,0,[],1218_170824
+s444_comb.aig,reset,31,3,0.0,0.0,[],1218_170824
+s444_comb.aig,max,31,3,0,0,[],1218_170824
+s444_comb.aig,done,31,3,0.0,0.0,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite,1218_170824
+lal_comb.aig,init,37,3,0,0,[],1218_170824
+lal_comb.aig,reset,24,2,0.02315375779143903,0.46307515582878056,[],1218_170825
+lal_comb.aig,max,24,2,0,0.46307515582878056,[],1218_170825
+lal_comb.aig,done,24,2,-0.4630751558287805,0.46307515582878056,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/refactor -z/balance/balance,1218_170825
+int2float.aig,init,50,5,0,0,[],1218_170825
+int2float.aig,reset,48,4,0.010808164115469148,0.21616328230938298,[],1218_170825
+int2float.aig,max,48,4,0,0.21616328230938298,[],1218_170826
+int2float.aig,done,48,4,-0.2161632823093829,0.21616328230938298,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor,1218_170826
+s15850_comb.aig,init,136,7,0,0,[],1218_170826
+s15850_comb.aig,reset,134,5,0.014549291952339904,0.2909858390467981,[],1218_170826
+s15850_comb.aig,max,134,5,0,0.2909858390467981,[],1218_170826
+s15850_comb.aig,done,134,7,-0.5745915034280786,0.007380174665517325,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor/refactor/refactor,1218_170826
+sasc_comb.aig,init,80,2,0,0,[],1218_170826
+sasc_comb.aig,reset,77,2,0.0009464578241285381,0.018929156482570764,[],1218_170827
+sasc_comb.aig,max,77,2,0,0.018929156482570764,[],1218_170827
+sasc_comb.aig,done,78,2,-0.025279195871716446,0.012579117093425074,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite/rewrite/refactor -z/balance/refactor -z/balance/rewrite,1218_170827
+C1908.iscas_comb.aig,init,96,11,0,0,[],1218_170827
+C1908.iscas_comb.aig,reset,93,9,0.009735187007894146,0.19470374015788294,[],1218_170828
+C1908.iscas_comb.aig,max,92,9,-0.1514217407708301,0.1990449915133592,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z/rewrite -z/refactor/refactor/balance,1218_170828
+C1908.iscas_comb.aig,done,92,9,-0.19036248880240664,0.1990449915133592,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite -z/rewrite -z/refactor/refactor/balance/balance/balance/balance/balance,1218_170828
+s444_comb.aig,init,31,3,0,0,[],1218_170828
+s444_comb.aig,reset,31,3,0.0,0.0,[],1218_170829
+s444_comb.aig,max,31,3,0,0,[],1218_170829
+s444_comb.aig,done,31,3,0.0,0.0,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite,1218_170829
+b04_comb.aig,init,128,7,0,0,[],1218_170829
+b04_comb.aig,reset,111,6,0.010090184573880345,0.2018036914776069,[],1218_170829
+b04_comb.aig,max,109,6,-0.18448986232240844,0.20902733605892498,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/balance,1218_170830
+b04_comb.aig,done,109,6,-0.19458004689628877,0.20902733605892498,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/balance/balance,1218_170830
+apex7_comb.aig,init,63,7,0,0,[],1218_170830
+apex7_comb.aig,reset,57,5,0.016028938171023504,0.3205787634204701,[],1218_170830
+apex7_comb.aig,max,57,5,0,0.3205787634204701,[],1218_170830
+apex7_comb.aig,done,57,5,-0.3205787634204701,0.3205787634204701,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite,1218_170830
+s713_comb.aig,init,50,6,0,0,[],1218_170830
+s713_comb.aig,reset,50,7,-0.008333333333333337,-0.16666666666666674,[],1218_170831
+s713_comb.aig,max,50,6,0,0,[],1218_170831
+s713_comb.aig,done,50,7,0.16666666666666669,-0.16666666666666674,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor/refactor/rewrite,1218_170831
+b11_comb.aig,init,164,6,0,0,[],1218_170831
+b11_comb.aig,reset,153,5,0.009754942736450955,0.1950988547290191,[],1218_170832
+b11_comb.aig,max,153,5,0,0.1950988547290191,[],1218_170832
+b11_comb.aig,done,148,6,-0.34016561648976706,0.050032092968270936,balance/balance/balance/rewrite -z/rewrite -z/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z,1218_170832
+b10_comb.aig,init,62,3,0,0,[],1218_170832
+b10_comb.aig,reset,44,3,0.007878823041288402,0.15757646082576804,[],1218_170833
+b10_comb.aig,max,41,3,-0.10471404387964045,0.18680240864803033,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite/rewrite/rewrite/rewrite/balance/refactor,1218_170833
+b10_comb.aig,done,41,3,-0.12835051300350564,0.18680240864803033,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite/rewrite/rewrite/rewrite/balance/refactor/refactor/refactor/refactor,1218_170833
+b04_comb.aig,init,128,7,0,0,[],1218_170833
+b04_comb.aig,reset,111,6,0.010090184573880345,0.2018036914776069,[],1218_170834
+b04_comb.aig,max,106,6,-0.18361915680669777,0.219988226148516,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor/refactor/refactor -z,1218_170836
+b04_comb.aig,done,106,6,-0.18361915680669777,0.219988226148516,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor/refactor/refactor -z,1218_170836
+C1908.iscas_comb.aig,init,96,11,0,0,[],1218_170836
+C1908.iscas_comb.aig,reset,93,9,0.009735187007894146,0.19470374015788294,[],1218_170836
+C1908.iscas_comb.aig,max,90,9,-0.14266787128116104,0.20779886100302825,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor,1218_170837
+C1908.iscas_comb.aig,done,90,9,-0.18160861931273758,0.20779886100302825,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor/refactor/refactor,1218_170837
+s1488_comb.aig,init,152,5,0,0,[],1218_170837
+s1488_comb.aig,reset,147,4,0.010663395913568852,0.21326791827137703,[],1218_170837
+s1488_comb.aig,max,147,4,0,0.21326791827137703,[],1218_170838
+s1488_comb.aig,done,149,5,-0.4166182360907599,0.009917600451994302,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/refactor -z/balance/balance,1218_170838
+apex7_comb.aig,init,63,7,0,0,[],1218_170838
+apex7_comb.aig,reset,57,5,0.016028938171023504,0.3205787634204701,[],1218_170838
+apex7_comb.aig,max,53,5,-0.29630583582931513,0.34485169101162505,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/balance/refactor,1218_170838
+apex7_comb.aig,done,53,5,-0.29630583582931513,0.34485169101162505,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/balance/refactor,1218_170838
+b11_comb.aig,init,164,6,0,0,[],1218_170838
+b11_comb.aig,reset,153,5,0.009754942736450955,0.1950988547290191,[],1218_170839
+b11_comb.aig,max,153,5,0,0.1950988547290191,[],1218_170839
+b11_comb.aig,done,151,6,-0.34974536711609994,0.04045234234193806,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor,1218_170839
+cavlc.aig,init,119,6,0,0,[],1218_170839
+cavlc.aig,reset,119,6,0.0,0.0,[],1218_170840
+cavlc.aig,max,119,6,0,0,[],1218_170840
+cavlc.aig,done,121,6,-0.008368346731032483,-0.008368346731032483,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor/balance,1218_170840
+mux_cl_comb.aig,init,37,4,0,0,[],1218_170840
+mux_cl_comb.aig,reset,10,3,0.030504678315873633,0.6100935663174727,[],1218_170841
+mux_cl_comb.aig,max,3,2,-0.30155147536607274,0.8576263006371252,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor/refactor/balance/balance/refactor -z,1218_170841
+mux_cl_comb.aig,done,3,2,-0.36256083199781997,0.8576263006371252,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor/refactor/balance/balance/refactor -z/balance/balance,1218_170841
+s1196_comb.aig,init,133,8,0,0,[],1218_170841
+s1196_comb.aig,reset,122,7,0.00809825088439185,0.161965017687837,[],1218_170842
+s1196_comb.aig,max,122,7,0,0.161965017687837,[],1218_170842
+s1196_comb.aig,done,125,7,-0.1722061510485443,0.1517238843271298,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z,1218_170842
+s444_comb.aig,init,31,3,0,0,[],1218_170842
+s444_comb.aig,reset,31,3,0.0,0.0,[],1218_170843
+s444_comb.aig,max,31,3,0,0,[],1218_170843
+s444_comb.aig,done,31,3,0.0,0.0,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z,1218_170843
+steppermotordrive_comb.aig,init,48,5,0,0,[],1218_170843
+steppermotordrive_comb.aig,reset,45,4,0.01127016653792583,0.2254033307585166,[],1218_170843
+steppermotordrive_comb.aig,max,44,4,-0.19420801464625212,0.23405831379492947,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z,1218_170843
+steppermotordrive_comb.aig,done,44,4,-0.2167483477221038,0.23405831379492947,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/refactor,1218_170843
+b10_comb.aig,init,62,3,0,0,[],1218_170843
+b10_comb.aig,reset,44,3,0.007878823041288402,0.15757646082576804,[],1218_170844
+b10_comb.aig,max,41,3,-0.07319875171448686,0.18680240864803033,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/balance/balance,1218_170844
+b10_comb.aig,done,40,4,-0.38611202685486756,-0.0709591052033316,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/balance/balance/balance/refactor -z/refactor/refactor/refactor/refactor/balance,1218_170844
+term1_comb.aig,init,74,5,0,0,[],1218_170844
+term1_comb.aig,reset,38,4,0.02133605711662086,0.4267211423324172,[],1218_170845
+term1_comb.aig,max,38,4,0,0.4267211423324172,[],1218_170845
+term1_comb.aig,done,38,4,-0.42672114233241715,0.4267211423324172,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/balance/refactor -z/refactor -z,1218_170845
+simple_spi_comb.aig,init,121,4,0,0,[],1218_170845
+simple_spi_comb.aig,reset,118,4,0.000623725039999018,0.01247450079998036,[],1218_170845
+simple_spi_comb.aig,max,118,4,0,0.01247450079998036,[],1218_170846
+simple_spi_comb.aig,done,118,4,-0.012474500799980363,0.01247450079998036,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor/refactor/refactor/refactor/refactor/refactor/balance,1218_170846
+s1238_comb.aig,init,135,9,0,0,[],1218_170846
+s1238_comb.aig,reset,135,8,0.005555555555555558,0.11111111111111116,[],1218_170846
+s1238_comb.aig,max,135,8,0,0.11111111111111116,[],1218_170847
+s1238_comb.aig,done,136,8,-0.1143972180255775,0.10782500419664487,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor,1218_170847
+usb_phy_comb.aig,init,99,2,0,0,[],1218_170847
+usb_phy_comb.aig,reset,99,2,0.0,0.0,[],1218_170847
+usb_phy_comb.aig,max,99,2,0,0,[],1218_170848
+usb_phy_comb.aig,done,100,2,-0.005037815259212097,-0.005037815259212097,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor,1218_170848
+s15850_comb.aig,init,136,7,0,0,[],1218_170848
+s15850_comb.aig,reset,134,5,0.014549291952339904,0.2909858390467981,[],1218_170848
+s15850_comb.aig,max,129,4,-0.10940152073676314,0.44347157345215305,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/balance,1218_170848
+s15850_comb.aig,done,129,5,-0.27763221127840465,0.3043394668151913,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/balance/refactor -z/balance,1218_170848
+C880.iscas_comb.aig,init,82,10,0,0,[],1218_170848
+C880.iscas_comb.aig,reset,74,9,0.007251444183572192,0.14502888367144384,[],1218_170849
+C880.iscas_comb.aig,max,74,9,0,0.14502888367144384,[],1218_170849
+C880.iscas_comb.aig,done,74,9,-0.14502888367144384,0.14502888367144384,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/refactor -z/balance/refactor,1218_170849
+sasc_comb.aig,init,80,2,0,0,[],1218_170849
+sasc_comb.aig,reset,77,2,0.0009464578241285381,0.018929156482570764,[],1218_170850
+sasc_comb.aig,max,77,2,0,0.018929156482570764,[],1218_170850
+sasc_comb.aig,done,77,2,-0.018929156482570757,0.018929156482570764,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/balance,1218_170850
+b07_comb.aig,init,115,5,0,0,[],1218_170850
+b07_comb.aig,reset,94,5,0.004795152241495543,0.09590304482991086,[],1218_170850
+b07_comb.aig,max,93,5,2.67325669644769e-05,0.10072492963837087,balance,1218_170851
+b07_comb.aig,done,95,5,-0.10069934880620746,0.09110674085361425,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/refactor -z/balance/refactor,1218_170851
+comp_comb.aig,init,27,5,0,0,[],1218_170851
+comp_comb.aig,reset,28,4,0.009265993822614749,0.18531987645229497,[],1218_170851
+comp_comb.aig,max,27,4,-0.17063975290459005,0.19999999999999996,rewrite/rewrite/rewrite/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z,1218_170852
+comp_comb.aig,done,27,4,-0.17063975290459005,0.19999999999999996,rewrite/rewrite/rewrite/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z,1218_170852
+s1488_comb.aig,init,152,5,0,0,[],1218_170852
+s1488_comb.aig,reset,147,4,0.010663395913568852,0.21326791827137703,[],1218_170852
+s1488_comb.aig,max,147,4,0,0.21326791827137703,[],1218_170853
+s1488_comb.aig,done,144,6,-0.5945300686842443,-0.16799423214149023,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor -z/refactor/refactor -z,1218_170853
+s15850_comb.aig,init,136,7,0,0,[],1218_170853
+s15850_comb.aig,reset,134,5,0.014549291952339904,0.2909858390467981,[],1218_170853
+s15850_comb.aig,max,129,5,-0.26308291932606476,0.3043394668151913,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z,1218_170853
+s15850_comb.aig,done,130,5,-0.28032336458916995,0.301648313504426,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z,1218_170853
+b07_comb.aig,init,115,5,0,0,[],1218_170853
+b07_comb.aig,reset,94,5,0.004795152241495543,0.09590304482991086,[],1218_170854
+b07_comb.aig,max,93,5,2.67325669644769e-05,0.10072492963837087,balance,1218_170854
+b07_comb.aig,done,95,5,-0.10069934880620746,0.09110674085361425,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/balance/balance/balance/refactor -z/refactor -z,1218_170854
+s820_comb.aig,init,81,5,0,0,[],1218_170854
+s820_comb.aig,reset,78,4,0.010747729482987346,0.2149545896597469,[],1218_170855
+s820_comb.aig,max,78,4,0,0.2149545896597469,[],1218_170855
+s820_comb.aig,done,79,5,-0.41748633679900393,0.012422842520490085,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor/refactor/refactor,1218_170855
+sasc_comb.aig,init,80,2,0,0,[],1218_170855
+sasc_comb.aig,reset,77,2,0.0009464578241285381,0.018929156482570764,[],1218_170856
+sasc_comb.aig,max,77,2,0,0.018929156482570764,[],1218_170856
+sasc_comb.aig,done,77,2,-0.018929156482570757,0.018929156482570764,balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor/refactor/refactor/refactor/refactor/refactor/refactor/refactor/refactor,1218_170856
+C432.iscas_comb.aig,init,54,13,0,0,[],1218_170856
+C432.iscas_comb.aig,reset,59,12,0.0017566981481364596,0.03513396296272919,[],1218_170856
+C432.iscas_comb.aig,max,59,12,0,0.03513396296272919,[],1218_170857
+C432.iscas_comb.aig,done,55,13,-0.07948471062462238,-0.009216784699163982,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor -z/refactor -z/balance/balance,1218_170857
+s298_comb.aig,init,25,2,0,0,[],1218_170857
+s298_comb.aig,reset,18,2,0.007573593128807149,0.15147186257614298,[],1218_170857
+s298_comb.aig,max,18,2,0,0.15147186257614298,[],1218_170857
+s298_comb.aig,done,18,2,-0.15147186257614298,0.15147186257614298,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor/refactor/refactor -z,1218_170857
+apex7_comb.aig,init,63,7,0,0,[],1218_170857
+apex7_comb.aig,reset,57,5,0.016028938171023504,0.3205787634204701,[],1218_170858
+apex7_comb.aig,max,53,5,-0.29630583582931513,0.34485169101162505,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/balance/balance/refactor -z,1218_170858
+apex7_comb.aig,done,53,5,-0.29630583582931513,0.34485169101162505,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/balance/balance/refactor -z,1218_170858
+sct_comb.aig,init,28,3,0,0,[],1218_170858
+sct_comb.aig,reset,21,2,0.021132486540518712,0.42264973081037427,[],1218_170858
+sct_comb.aig,max,19,2,-0.14087927049979995,0.45083035263472404,balance/balance/balance/balance/balance/balance/balance/rewrite -z,1218_170859
+sct_comb.aig,done,21,2,-0.4226497308103741,0.42264973081037427,balance/balance/balance/balance/balance/balance/balance/rewrite -z/rewrite -z/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor/refactor/rewrite,1218_170859
+steppermotordrive_comb.aig,init,48,5,0,0,[],1218_170859
+steppermotordrive_comb.aig,reset,45,4,0.01127016653792583,0.2254033307585166,[],1218_170859
+steppermotordrive_comb.aig,max,44,4,-0.13785718195662292,0.23405831379492947,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z,1218_170859
+steppermotordrive_comb.aig,done,44,4,-0.2167483477221038,0.23405831379492947,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/refactor -z/balance/balance/refactor -z/refactor -z/refactor,1218_170859
+b10_comb.aig,init,62,3,0,0,[],1218_170859
+b10_comb.aig,reset,44,3,0.007878823041288402,0.15757646082576804,[],1218_170900
+b10_comb.aig,max,41,3,-0.11259286692092885,0.18680240864803033,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/balance,1218_170900
+b10_comb.aig,done,41,3,-0.12835051300350564,0.18680240864803033,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/balance/refactor -z/balance,1218_170900
+int2float.aig,init,50,5,0,0,[],1218_170900
+int2float.aig,reset,48,4,0.010808164115469148,0.21616328230938298,[],1218_170901
+int2float.aig,max,48,4,0,0.21616328230938298,[],1218_170901
+int2float.aig,done,45,5,-0.3810098626692796,0.05131670194948623,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor/refactor/refactor/refactor/refactor -z,1218_170901
+b07_comb.aig,init,115,5,0,0,[],1218_170901
+b07_comb.aig,reset,94,5,0.004795152241495543,0.09590304482991086,[],1218_170901
+b07_comb.aig,max,93,5,2.67325669644769e-05,0.10072492963837087,balance,1218_170902
+b07_comb.aig,done,95,5,-0.10069934880620746,0.09110674085361425,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/balance/balance/refactor -z/refactor -z/refactor -z,1218_170902
+ttt2_comb.aig,init,52,3,0,0,[],1218_170902
+ttt2_comb.aig,reset,33,3,0.010168624659215425,0.2033724931843085,[],1218_170902
+ttt2_comb.aig,max,33,2,0.08250725840601969,0.46891499545620574,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/balance,1218_170902
+ttt2_comb.aig,done,33,3,-0.2033724931843084,0.2033724931843085,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/balance/refactor -z/refactor,1218_170902
+usb_phy_comb.aig,init,99,2,0,0,[],1218_170902
+usb_phy_comb.aig,reset,99,2,0.0,0.0,[],1218_170903
+usb_phy_comb.aig,max,99,2,0,0,[],1218_170903
+usb_phy_comb.aig,done,96,3,-0.4770978917519928,-0.4770978917519928,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/balance/balance/balance/refactor -z/refactor -z,1218_170903
+sct_comb.aig,init,28,3,0,0,[],1218_170903
+sct_comb.aig,reset,21,2,0.021132486540518712,0.42264973081037427,[],1218_170904
+sct_comb.aig,max,20,2,-0.3242056852776846,0.436563830180989,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor -z,1218_170904
+sct_comb.aig,done,20,2,-0.4087356314397594,0.436563830180989,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor -z/refactor -z/refactor/refactor -z/refactor,1218_170904
+b9_comb.aig,init,34,3,0,0,[],1218_170904
+b9_comb.aig,reset,33,2,0.017160521128540735,0.3432104225708147,[],1218_170904
+b9_comb.aig,max,32,2,-0.31602199077664317,0.3532383332364455,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor/refactor/refactor/refactor -z,1218_170904
+b9_comb.aig,done,32,2,-0.3331825119051839,0.3532383332364455,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor/refactor/refactor/refactor -z/refactor -z,1218_170904
+s526n_comb.aig,init,35,3,0,0,[],1218_170904
+s526n_comb.aig,reset,29,3,0.0044870505083600245,0.08974101016720049,[],1218_170905
+s526n_comb.aig,max,29,3,0,0.08974101016720049,[],1218_170905
+s526n_comb.aig,done,30,3,-0.10530212010695242,0.07417990022744858,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/balance/refactor -z/refactor,1218_170905
+b9_comb.aig,init,34,3,0,0,[],1218_170905
+b9_comb.aig,reset,33,2,0.017160521128540735,0.3432104225708147,[],1218_170905
+b9_comb.aig,max,32,2,-0.2473799062624803,0.3532383332364455,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z,1218_170906
+b9_comb.aig,done,32,2,-0.3331825119051839,0.3532383332364455,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/refactor -z/balance/refactor -z/refactor -z,1218_170906
+s820_comb.aig,init,81,5,0,0,[],1218_170906
+s820_comb.aig,reset,78,4,0.010747729482987346,0.2149545896597469,[],1218_170906
+s820_comb.aig,max,77,4,-0.199158284271362,0.22000316556514465,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/balance/balance/balance/balance/refactor -z/refactor -z/refactor -z/balance,1218_170906
+s820_comb.aig,done,77,4,-0.20990601375434936,0.22000316556514465,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/balance/balance/balance/balance/refactor -z/refactor -z/refactor -z/balance/refactor -z,1218_170906
+mux_cl_comb.aig,init,37,4,0,0,[],1218_170906
+mux_cl_comb.aig,reset,10,3,0.030504678315873633,0.6100935663174727,[],1218_170907
+mux_cl_comb.aig,max,7,3,-0.5159015814697017,0.6737808728493699,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/rewrite/rewrite/refactor -z,1218_170907
+mux_cl_comb.aig,done,7,3,-0.5464062597855753,0.6737808728493699,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/rewrite/rewrite/refactor -z/refactor -z,1218_170907
+s526n_comb.aig,init,35,3,0,0,[],1218_170907
+s526n_comb.aig,reset,29,3,0.0044870505083600245,0.08974101016720049,[],1218_170908
+s526n_comb.aig,max,29,3,0,0.08974101016720049,[],1218_170908
+s526n_comb.aig,done,30,3,-0.10530212010695242,0.07417990022744858,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/balance/refactor -z/refactor -z/refactor -z/balance,1218_170908
+simple_spi_comb.aig,init,121,4,0,0,[],1218_170908
+simple_spi_comb.aig,reset,118,4,0.000623725039999018,0.01247450079998036,[],1218_170910
+simple_spi_comb.aig,max,118,4,0,0.01247450079998036,[],1218_170910
+simple_spi_comb.aig,done,119,4,-0.016650102930480193,0.008298898669480526,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor/refactor/refactor/refactor/refactor -z,1218_170910
+C880.iscas_comb.aig,init,82,10,0,0,[],1218_170910
+C880.iscas_comb.aig,reset,74,9,0.007251444183572192,0.14502888367144384,[],1218_170911
+C880.iscas_comb.aig,max,74,9,0,0.14502888367144384,[],1218_170911
+C880.iscas_comb.aig,done,74,9,-0.14502888367144384,0.14502888367144384,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/rewrite/rewrite/rewrite/rewrite/refactor,1218_170911
+cavlc.aig,init,119,6,0,0,[],1218_170911
+cavlc.aig,reset,119,6,0.0,0.0,[],1218_170912
+cavlc.aig,max,119,6,0,0,[],1218_170912
+cavlc.aig,done,119,6,0.0,0.0,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/balance/balance/balance/balance/balance,1218_170912
+usb_phy_comb.aig,init,99,2,0,0,[],1218_170912
+usb_phy_comb.aig,reset,99,2,0.0,0.0,[],1218_170913
+usb_phy_comb.aig,max,98,2,0.005063323673817899,0.005063323673817899,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/balance,1218_170913
+usb_phy_comb.aig,done,99,2,0.0,0.0,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/balance/refactor -z/balance,1218_170913
+apex7_comb.aig,init,63,7,0,0,[],1218_170913
+apex7_comb.aig,reset,57,5,0.016028938171023504,0.3205787634204701,[],1218_170913
+apex7_comb.aig,max,53,5,-0.24821902131624454,0.34485169101162505,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/balance/refactor -z,1218_170914
+apex7_comb.aig,done,53,5,-0.2963058358293151,0.34485169101162505,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/balance/refactor -z/refactor -z/refactor -z/balance,1218_170914
+ADDERFDS_comb.aig,init,26,9,0,0,[],1218_170914
+ADDERFDS_comb.aig,reset,26,9,0.0,0.0,[],1218_170914
+ADDERFDS_comb.aig,max,26,9,0,0,[],1218_170915
+ADDERFDS_comb.aig,done,26,9,0.0,0.0,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/rewrite/rewrite/rewrite/rewrite/refactor,1218_170915
+z4ml_comb.aig,init,8,2,0,0,[],1218_170915
+z4ml_comb.aig,reset,7,2,0.0032292826653257333,0.06458565330651467,[],1218_170915
+z4ml_comb.aig,max,7,2,0,0.06458565330651467,[],1218_170915
+z4ml_comb.aig,done,7,2,-0.06458565330651465,0.06458565330651467,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/refactor/refactor/refactor -z/refactor,1218_170915
+s1238_comb.aig,init,135,9,0,0,[],1218_170915
+s1238_comb.aig,reset,135,8,0.005555555555555558,0.11111111111111116,[],1218_170916
+s1238_comb.aig,max,135,8,0,0.11111111111111116,[],1218_170916
+s1238_comb.aig,done,136,8,-0.1143972180255775,0.10782500419664487,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z/refactor -z/refactor -z/refactor -z,1218_170916
+pcler8_cl_comb.aig,init,23,3,0,0,[],1218_170916
+pcler8_cl_comb.aig,reset,23,3,0.0,0.0,[],1218_170917
+pcler8_cl_comb.aig,max,23,3,0,0,[],1218_170917
+pcler8_cl_comb.aig,done,23,3,0.0,0.0,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/balance/refactor -z/refactor -z/refactor -z/refactor,1218_170917
+s526_comb.aig,init,40,3,0,0,[],1218_170917
+s526_comb.aig,reset,32,2,0.020185760300002808,0.40371520600005617,[],1218_170917
+s526_comb.aig,max,32,2,0,0.40371520600005617,[],1218_170918
+s526_comb.aig,done,28,3,-0.6440904385341878,0.16333997346592444,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite/rewrite/rewrite/rewrite/rewrite/refactor -z,1218_170918
+cavlc.aig,init,119,6,0,0,[],1218_170918
+cavlc.aig,reset,119,6,0.0,0.0,[],1218_170918
+cavlc.aig,max,119,6,0,0,[],1218_170919
+cavlc.aig,done,121,6,-0.008368346731032483,-0.008368346731032483,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite/rewrite/rewrite/rewrite/rewrite,1218_170919
+C1908.iscas_comb.aig,init,96,11,0,0,[],1218_170919
+C1908.iscas_comb.aig,reset,93,9,0.009735187007894146,0.19470374015788294,[],1218_170920
+C1908.iscas_comb.aig,max,90,9,-0.14266787128116104,0.20779886100302825,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor,1218_170920
+C1908.iscas_comb.aig,done,90,9,-0.18160861931273758,0.20779886100302825,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor/refactor/refactor/refactor/refactor -z,1218_170920
+apex7_comb.aig,init,63,7,0,0,[],1218_170920
+apex7_comb.aig,reset,57,5,0.016028938171023504,0.3205787634204701,[],1218_170921
+apex7_comb.aig,max,57,5,0,0.3205787634204701,[],1218_170921
+apex7_comb.aig,done,58,5,-0.3265126860113444,0.31464484082959576,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite/balance/balance/balance/balance/balance,1218_170921
+s1488_comb.aig,init,152,5,0,0,[],1218_170921
+s1488_comb.aig,reset,147,4,0.010663395913568852,0.21326791827137703,[],1218_170921
+s1488_comb.aig,max,147,4,0,0.21326791827137703,[],1218_170922
+s1488_comb.aig,done,145,7,-0.7939190462192744,-0.3673832096765204,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/refactor -z,1218_170922
+b05_comb.aig,init,150,8,0,0,[],1218_170922
+b05_comb.aig,reset,115,8,0.006220248211454343,0.12440496422908687,[],1218_170922
+b05_comb.aig,max,112,8,-0.11290868824588836,0.13590124021228533,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite/rewrite/refactor -z,1218_170923
+b05_comb.aig,done,112,8,-0.11290868824588836,0.13590124021228533,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite/rewrite/refactor -z,1218_170923
+b9_comb.aig,init,34,3,0,0,[],1218_170923
+b9_comb.aig,reset,33,2,0.017160521128540735,0.3432104225708147,[],1218_170924
+b9_comb.aig,max,33,2,0,0.3432104225708147,[],1218_170924
+b9_comb.aig,done,33,2,-0.3432104225708147,0.3432104225708147,balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/balance/rewrite,1218_170924
+C499.iscas_comb.aig,init,60,4,0,0,[],1218_170924
+C499.iscas_comb.aig,reset,73,5,-0.018939133782392904,-0.37878267564785806,[],1218_170924

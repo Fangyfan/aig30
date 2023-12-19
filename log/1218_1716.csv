@@ -1,0 +1,208 @@
+s713_comb.aig,init,50,6,0,0,[],1218_171618
+s713_comb.aig,reset,50,7,-0.008333333333333337,-0.16666666666666674,[],1218_171618
+s713_comb.aig,init,50,6,0,0,[],1218_171636
+s713_comb.aig,reset,50,7,-0.008333333333333337,-0.16666666666666674,[],1218_171637
+s713_comb.aig,max,48,7,0.19023812003451707,-0.14309521329881636,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/refactor,1218_171639
+s713_comb.aig,done,48,7,0.19023812003451707,-0.14309521329881636,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/refactor,1218_171639
+s15850_comb.aig,init,136,7,0,0,[],1218_171639
+s15850_comb.aig,reset,134,5,0.014549291952339904,0.2909858390467981,[],1218_171639
+s15850_comb.aig,max,132,4,-0.013990545461838644,0.4370375050606983,balance/rewrite/refactor/balance/rewrite/rewrite -z/refactor/refactor -z/rewrite -z/balance/balance,1218_171640
+s15850_comb.aig,done,131,5,-0.2830041870626542,0.2989674910309418,balance/rewrite/refactor/balance/rewrite/rewrite -z/refactor/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171640
+b05_comb.aig,init,150,8,0,0,[],1218_171640
+b05_comb.aig,reset,115,8,0.006220248211454343,0.12440496422908687,[],1218_171640
+b05_comb.aig,max,125,7,0.05817222810818283,0.20123793697163272,balance/rewrite/refactor,1218_171641
+b05_comb.aig,done,129,8,-0.17617177800774403,0.07263815045042965,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171641
+s444_comb.aig,init,31,3,0,0,[],1218_171641
+s444_comb.aig,reset,31,3,0.0,0.0,[],1218_171642
+s444_comb.aig,max,31,3,0,0,[],1218_171642
+s444_comb.aig,done,34,3,-0.04726987617728562,-0.04726987617728562,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/rewrite/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/refactor -z,1218_171642
+s713_comb.aig,init,50,6,0,0,[],1218_171642
+s713_comb.aig,reset,50,7,-0.008333333333333337,-0.16666666666666674,[],1218_171643
+s713_comb.aig,max,49,7,0.061725590728639125,-0.15494107593802764,balance/rewrite/refactor/balance/rewrite/rewrite -z,1218_171643
+s713_comb.aig,done,50,7,0.16666666666666669,-0.16666666666666674,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/balance/balance,1218_171643
+mux_cl_comb.aig,init,37,4,0,0,[],1218_171643
+mux_cl_comb.aig,reset,10,3,0.030504678315873633,0.6100935663174727,[],1218_171643
+mux_cl_comb.aig,max,7,3,-0.485396903153828,0.6737808728493699,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z,1218_171644
+mux_cl_comb.aig,done,7,3,-0.5464062597855753,0.6737808728493699,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171644
+int2float.aig,init,50,5,0,0,[],1218_171644
+int2float.aig,reset,48,4,0.010808164115469148,0.21616328230938298,[],1218_171644
+int2float.aig,max,48,4,0,0.21616328230938298,[],1218_171645
+int2float.aig,done,49,4,-0.22428615954769915,0.2080404050710667,balance/rewrite/refactor/balance/rewrite/balance/balance/balance/rewrite -z/balance/balance/rewrite/refactor -z/balance/rewrite/rewrite -z/rewrite -z/refactor -z/rewrite -z/refactor,1218_171645
+term1_comb.aig,init,74,5,0,0,[],1218_171645
+term1_comb.aig,reset,38,4,0.02133605711662086,0.4267211423324172,[],1218_171645
+term1_comb.aig,max,36,4,-0.0913900938858541,0.4420113340296674,balance/rewrite/refactor/balance/rewrite,1218_171646
+term1_comb.aig,done,39,4,-0.4342153016837876,0.41922698298104677,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/refactor/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171646
+b07_comb.aig,init,115,5,0,0,[],1218_171646
+b07_comb.aig,reset,94,5,0.004795152241495543,0.09590304482991086,[],1218_171646
+b07_comb.aig,max,92,4,0.16457944116267872,0.2844582472000673,balance/rewrite/refactor/balance/rewrite,1218_171647
+b07_comb.aig,done,92,5,-0.08623328065973757,0.10557280900008414,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/refactor/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171647
+ADDERFDS_comb.aig,init,26,9,0,0,[],1218_171647
+ADDERFDS_comb.aig,reset,26,9,0.0,0.0,[],1218_171648
+ADDERFDS_comb.aig,max,26,9,0,0,[],1218_171648
+ADDERFDS_comb.aig,done,26,9,0.0,0.0,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/rewrite/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171648
+s510_comb.aig,init,46,3,0,0,[],1218_171648
+s510_comb.aig,reset,45,4,-0.0159380473395787,-0.31876094679157396,[],1218_171649
+s510_comb.aig,max,43,3,0.5112998567987921,0.03315843661143103,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171649
+s510_comb.aig,done,45,4,0.3187609467915742,-0.31876094679157396,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171649
+s510_comb.aig,init,46,3,0,0,[],1218_171649
+s510_comb.aig,reset,45,4,-0.0159380473395787,-0.31876094679157396,[],1218_171650
+s510_comb.aig,max,40,3,0.6890790380032557,0.06749519175968621,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor -z/balance/rewrite/rewrite -z/balance/refactor -z/balance,1218_171650
+s510_comb.aig,done,40,3,0.7050170853428344,0.06749519175968621,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor -z/balance/rewrite/rewrite -z/balance/refactor -z/balance/balance,1218_171650
+simple_spi_comb.aig,init,121,4,0,0,[],1218_171650
+simple_spi_comb.aig,reset,118,4,0.000623725039999018,0.01247450079998036,[],1218_171651
+simple_spi_comb.aig,max,117,4,-0.002043917235603987,0.016667833964366552,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171651
+simple_spi_comb.aig,done,119,4,-0.016650102930480186,0.008298898669480526,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/refactor -z/balance,1218_171651
+b10_comb.aig,init,62,3,0,0,[],1218_171651
+b10_comb.aig,reset,44,3,0.007878823041288402,0.15757646082576804,[],1218_171652
+b10_comb.aig,max,38,3,-0.01924605249746473,0.2171186387411873,balance/rewrite/refactor/balance/rewrite/refactor -z/balance/refactor -z/rewrite -z/balance,1218_171652
+b10_comb.aig,done,38,3,-0.09803428291034877,0.2171186387411873,balance/rewrite/refactor/balance/rewrite/refactor -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171652
+z4ml_comb.aig,init,8,2,0,0,[],1218_171652
+z4ml_comb.aig,reset,7,2,0.0032292826653257333,0.06458565330651467,[],1218_171653
+z4ml_comb.aig,max,6,2,0.06293037757839526,0.1339745962155614,balance/rewrite,1218_171653
+z4ml_comb.aig,done,6,2,0.004803289602532075,0.1339745962155614,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/rewrite/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171653
+b9_comb.aig,init,34,3,0,0,[],1218_171653
+b9_comb.aig,reset,33,2,0.017160521128540735,0.3432104225708147,[],1218_171654
+b9_comb.aig,max,32,2,-0.29886146964810245,0.3532383332364455,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/balance/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z,1218_171654
+b9_comb.aig,done,33,2,-0.3432104225708147,0.3432104225708147,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/balance/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/rewrite,1218_171654
+term1_comb.aig,init,74,5,0,0,[],1218_171654
+term1_comb.aig,reset,38,4,0.02133605711662086,0.4267211423324172,[],1218_171655
+term1_comb.aig,max,35,4,-0.23293807205616918,0.4498157556756984,balance/rewrite/refactor/balance/rewrite/rewrite/balance/refactor -z/rewrite -z/balance/balance/rewrite,1218_171655
+term1_comb.aig,done,37,5,-0.5605490658513821,0.2928932188134524,balance/rewrite/refactor/balance/rewrite/rewrite/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/refactor -z/balance/refactor -z/rewrite -z/balance,1218_171655
+comp_comb.aig,init,27,5,0,0,[],1218_171655
+comp_comb.aig,reset,28,4,0.009265993822614749,0.18531987645229497,[],1218_171656
+comp_comb.aig,max,23,4,0.020717595019298676,0.26163343440728215,balance/rewrite/refactor/balance/rewrite/rewrite -z,1218_171656
+comp_comb.aig,done,28,5,-0.3889899073392211,-0.018350154434631172,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/rewrite -z/refactor -z/rewrite -z/rewrite,1218_171656
+s1488_comb.aig,init,152,5,0,0,[],1218_171656
+s1488_comb.aig,reset,147,4,0.010663395913568852,0.21326791827137703,[],1218_171657
+s1488_comb.aig,max,147,4,0,0.21326791827137703,[],1218_171658
+s1488_comb.aig,done,148,4,-0.2159393421954982,0.2105964943472558,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171658
+b10_comb.aig,init,62,3,0,0,[],1218_171658
+b10_comb.aig,reset,44,3,0.007878823041288402,0.15757646082576804,[],1218_171658
+b10_comb.aig,max,38,3,-0.01924605249746473,0.2171186387411873,balance/rewrite/refactor/balance/rewrite/refactor -z/balance/refactor -z/rewrite -z/balance,1218_171659
+b10_comb.aig,done,38,3,-0.09803428291034877,0.2171186387411873,balance/rewrite/refactor/balance/rewrite/refactor -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171659
+s1196_comb.aig,init,133,8,0,0,[],1218_171659
+s1196_comb.aig,reset,122,7,0.00809825088439185,0.161965017687837,[],1218_171659
+s1196_comb.aig,max,122,7,0,0.161965017687837,[],1218_171700
+s1196_comb.aig,done,122,7,-0.16196501768783697,0.161965017687837,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171700
+usb_phy_comb.aig,init,99,2,0,0,[],1218_171700
+usb_phy_comb.aig,reset,99,2,0.0,0.0,[],1218_171700
+usb_phy_comb.aig,max,98,2,0.005063323673817899,0.005063323673817899,balance/rewrite/refactor/balance,1218_171701
+usb_phy_comb.aig,done,98,2,0.005063323673817899,0.005063323673817899,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/refactor/balance/rewrite/refactor/balance/rewrite/refactor/balance/refactor -z/rewrite -z/balance,1218_171701
+s1238_comb.aig,init,135,9,0,0,[],1218_171701
+s1238_comb.aig,reset,135,8,0.005555555555555558,0.11111111111111116,[],1218_171701
+s1238_comb.aig,max,134,8,-0.030035032946563754,0.11440941149788075,balance/rewrite/refactor/balance/rewrite/rewrite -z,1218_171702
+s1238_comb.aig,done,138,8,-0.12093338596166531,0.10128883626055707,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor -z/balance/rewrite -z/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171702
+b04_comb.aig,init,128,7,0,0,[],1218_171702
+b04_comb.aig,reset,111,6,0.010090184573880345,0.2018036914776069,[],1218_171703
+b04_comb.aig,max,99,6,-0.046432171185581184,0.24618318145694884,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z,1218_171703
+b04_comb.aig,done,105,6,-0.17993113721536225,0.22367624573985156,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171703
+b07_comb.aig,init,115,5,0,0,[],1218_171703
+b07_comb.aig,reset,94,5,0.004795152241495543,0.09590304482991086,[],1218_171704
+b07_comb.aig,max,88,4,0.1419463362416082,0.3001863602109611,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/rewrite/rewrite -z/balance/balance/rewrite/refactor,1218_171705
+b07_comb.aig,done,88,4,0.10838027055113944,0.3001863602109611,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/rewrite/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/refactor -z/refactor -z/rewrite -z/balance,1218_171705
+C880.iscas_comb.aig,init,82,10,0,0,[],1218_171705
+C880.iscas_comb.aig,reset,74,9,0.007251444183572192,0.14502888367144384,[],1218_171705
+C880.iscas_comb.aig,max,75,8,0.03186750718397259,0.23490794432399398,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z,1218_171706
+C880.iscas_comb.aig,done,76,9,-0.15650551955710698,0.13355224778578068,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/refactor -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171706
+s444_comb.aig,init,31,3,0,0,[],1218_171706
+s444_comb.aig,reset,31,3,0.0,0.0,[],1218_171706
+s444_comb.aig,max,31,3,0,0,[],1218_171707
+s444_comb.aig,done,35,3,-0.06255929625810364,-0.06255929625810364,balance/rewrite/refactor/rewrite -z/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171707
+s1488_comb.aig,init,152,5,0,0,[],1218_171707
+s1488_comb.aig,reset,147,4,0.010663395913568852,0.21326791827137703,[],1218_171707
+s1488_comb.aig,max,147,4,0,0.21326791827137703,[],1218_171708
+s1488_comb.aig,done,148,5,-0.4132902186086845,0.013245617934069753,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/refactor/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171708
+s298_comb.aig,init,25,2,0,0,[],1218_171708
+s298_comb.aig,reset,18,2,0.007573593128807149,0.15147186257614298,[],1218_171708
+s298_comb.aig,max,18,2,0,0.15147186257614298,[],1218_171709
+s298_comb.aig,done,18,2,-0.15147186257614298,0.15147186257614298,balance/rewrite/rewrite -z/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171709
+C499.iscas_comb.aig,init,60,4,0,0,[],1218_171709
+C499.iscas_comb.aig,reset,73,5,-0.018939133782392904,-0.37878267564785806,[],1218_171709
+C499.iscas_comb.aig,max,73,4,0.5219652743006794,-0.1030261405182864,balance/rewrite/refactor/balance/refactor/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor,1218_171710
+C499.iscas_comb.aig,done,76,6,0.06937104968230287,-0.6881943016134133,balance/rewrite/refactor/balance/refactor/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/balance/rewrite -z/balance,1218_171710
+s298_comb.aig,init,25,2,0,0,[],1218_171710
+s298_comb.aig,reset,18,2,0.007573593128807149,0.15147186257614298,[],1218_171710
+s298_comb.aig,max,18,2,0,0.15147186257614298,[],1218_171712
+s298_comb.aig,done,18,2,-0.15147186257614298,0.15147186257614298,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/refactor,1218_171712
+simple_spi_comb.aig,init,121,4,0,0,[],1218_171712
+simple_spi_comb.aig,reset,118,4,0.000623725039999018,0.01247450079998036,[],1218_171713
+simple_spi_comb.aig,max,117,4,-0.002043917235603987,0.016667833964366552,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171714
+simple_spi_comb.aig,done,117,4,-0.008281167635594167,0.016667833964366552,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171714
+C499.iscas_comb.aig,init,60,4,0,0,[],1218_171714
+C499.iscas_comb.aig,reset,73,5,-0.018939133782392904,-0.37878267564785806,[],1218_171714
+C499.iscas_comb.aig,max,71,5,0.05689687053925059,-0.3597640726733933,balance/rewrite,1218_171715
+C499.iscas_comb.aig,done,71,6,0.12584846408764402,-0.6317168872080721,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite -z/refactor/balance/rewrite/rewrite -z/balance/refactor -z/balance/balance,1218_171715
+s1488_comb.aig,init,152,5,0,0,[],1218_171715
+s1488_comb.aig,reset,147,4,0.010663395913568852,0.21326791827137703,[],1218_171715
+s1488_comb.aig,max,147,4,0,0.21326791827137703,[],1218_171716
+s1488_comb.aig,done,150,5,-0.4199351043415373,0.006600732201217152,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/refactor/balance/rewrite/refactor/refactor -z/rewrite/rewrite -z/rewrite/refactor -z/rewrite -z/balance,1218_171716
+s838_1_comb.aig,init,113,8,0,0,[],1218_171716
+s838_1_comb.aig,reset,88,6,0.016907210100040947,0.33814420200081896,[],1218_171717
+s838_1_comb.aig,max,86,5,0.06589126494025146,0.4547570972411933,balance/rewrite/refactor,1218_171717
+s838_1_comb.aig,done,91,6,-0.34933128945821623,0.3269571145434217,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/rewrite/balance/rewrite/rewrite -z/balance/rewrite -z/rewrite -z/balance,1218_171717
+b11_comb.aig,init,164,6,0,0,[],1218_171717
+b11_comb.aig,reset,153,5,0.009754942736450955,0.1950988547290191,[],1218_171718
+b11_comb.aig,max,153,5,0,0.1950988547290191,[],1218_171719
+b11_comb.aig,done,145,6,-0.33048827171175676,0.059709437746281235,balance/rewrite/refactor -z/balance/rewrite/rewrite -z/balance/rewrite/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171719
+s526_comb.aig,init,40,3,0,0,[],1218_171719
+s526_comb.aig,reset,32,2,0.020185760300002808,0.40371520600005617,[],1218_171719
+s526_comb.aig,max,32,2,0,0.40371520600005617,[],1218_171720
+s526_comb.aig,done,32,2,-0.4037152060000561,0.40371520600005617,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171720
+s1488_comb.aig,init,152,5,0,0,[],1218_171720
+s1488_comb.aig,reset,147,4,0.010663395913568852,0.21326791827137703,[],1218_171720
+s1488_comb.aig,max,147,4,0,0.21326791827137703,[],1218_171721
+s1488_comb.aig,done,146,5,-0.40660028125517905,0.01993555528757518,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/rewrite/rewrite/rewrite -z/refactor/refactor -z/rewrite -z/balance,1218_171721
+s444_comb.aig,init,31,3,0,0,[],1218_171721
+s444_comb.aig,reset,31,3,0.0,0.0,[],1218_171721
+s444_comb.aig,max,31,3,0,0,[],1218_171722
+s444_comb.aig,done,31,3,0.0,0.0,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/rewrite -z,1218_171722
+s1196_comb.aig,init,133,8,0,0,[],1218_171722
+s1196_comb.aig,reset,122,7,0.00809825088439185,0.161965017687837,[],1218_171723
+s1196_comb.aig,max,122,7,0,0.161965017687837,[],1218_171723
+s1196_comb.aig,done,122,7,-0.16196501768783697,0.161965017687837,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171723
+s832_comb.aig,init,80,4,0,0,[],1218_171723
+s832_comb.aig,reset,81,5,-0.012889411867181576,-0.25778823734363154,[],1218_171724
+s832_comb.aig,max,75,4,0.4957729906666824,0.031754163448145745,rewrite/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z,1218_171724
+s832_comb.aig,done,77,4,0.5345056311698339,0.018929156482570764,rewrite/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171724
+usb_phy_comb.aig,init,99,2,0,0,[],1218_171724
+usb_phy_comb.aig,reset,99,2,0.0,0.0,[],1218_171725
+usb_phy_comb.aig,max,98,2,0.005063323673817899,0.005063323673817899,balance/refactor/refactor/refactor -z/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance,1218_171725
+usb_phy_comb.aig,done,99,2,0.0,0.0,balance/refactor/refactor/refactor -z/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/balance/balance/refactor -z/rewrite -z/balance,1218_171725
+C432.iscas_comb.aig,init,54,13,0,0,[],1218_171725
+C432.iscas_comb.aig,reset,59,12,0.0017566981481364596,0.03513396296272919,[],1218_171726
+C432.iscas_comb.aig,max,51,10,0.21379470550442092,0.252442064763423,balance/rewrite,1218_171726
+C432.iscas_comb.aig,done,56,13,-0.0886180803600895,-0.018350154434631172,balance/rewrite/refactor/balance/balance/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171726
+b04_comb.aig,init,128,7,0,0,[],1218_171726
+b04_comb.aig,reset,111,6,0.010090184573880345,0.2018036914776069,[],1218_171727
+b04_comb.aig,max,99,6,-0.046432171185581184,0.24618318145694884,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z,1218_171727
+b04_comb.aig,done,105,6,-0.17993113721536225,0.22367624573985156,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171727
+s1494_comb.aig,init,154,5,0,0,[],1218_171727
+s1494_comb.aig,reset,148,4,0.010786962146980527,0.21573924293961055,[],1218_171728
+s1494_comb.aig,max,148,4,0,0.21573924293961055,[],1218_171729
+s1494_comb.aig,done,150,4,-0.22102051983094395,0.21045796604827716,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171729
+s15850_comb.aig,init,136,7,0,0,[],1218_171729
+s15850_comb.aig,reset,134,5,0.014549291952339904,0.2909858390467981,[],1218_171729
+s15850_comb.aig,max,131,4,0.04634311011157606,0.43917399282475345,balance/rewrite/refactor/balance/rewrite/refactor -z/balance,1218_171730
+s15850_comb.aig,done,133,4,-0.147062583251728,0.434909094841868,balance/rewrite/refactor/balance/rewrite/refactor -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171730
+s1488_comb.aig,init,152,5,0,0,[],1218_171730
+s1488_comb.aig,reset,147,4,0.010663395913568852,0.21326791827137703,[],1218_171730
+s1488_comb.aig,max,147,4,0,0.21326791827137703,[],1218_171731
+s1488_comb.aig,done,148,4,-0.2159393421954982,0.2105964943472558,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171731
+b11_comb.aig,init,164,6,0,0,[],1218_171731
+b11_comb.aig,reset,153,5,0.009754942736450955,0.1950988547290191,[],1218_171732
+b11_comb.aig,max,145,5,-0.14450834979345084,0.21642453145523433,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/refactor -z/refactor/refactor/balance/rewrite/rewrite -z/balance,1218_171732
+b11_comb.aig,done,145,7,-0.48720336542070997,-0.09700565596267197,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/refactor -z/refactor/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171732
+ttt2_comb.aig,init,52,3,0,0,[],1218_171732
+ttt2_comb.aig,reset,33,3,0.010168624659215425,0.2033724931843085,[],1218_171733
+ttt2_comb.aig,max,32,2,0.15162765053661575,0.4770236396315093,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite,1218_171733
+ttt2_comb.aig,done,34,2,0.05418332025628991,0.4609283066249068,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/refactor -z/rewrite -z/balance/refactor -z/rewrite -z/balance,1218_171733
+term1_comb.aig,init,74,5,0,0,[],1218_171733
+term1_comb.aig,reset,38,4,0.02133605711662086,0.4267211423324172,[],1218_171734
+term1_comb.aig,max,37,4,-0.07775079574813878,0.4343145750507619,balance/rewrite/refactor/refactor -z,1218_171734
+term1_comb.aig,done,40,4,-0.44161398233988053,0.4118283023249538,balance/rewrite/refactor/refactor -z/rewrite/refactor/refactor/refactor -z/rewrite -z/balance/balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/rewrite -z,1218_171734
+s444_comb.aig,init,31,3,0,0,[],1218_171734
+s444_comb.aig,reset,31,3,0.0,0.0,[],1218_171735
+s444_comb.aig,max,31,3,0,0,[],1218_171735
+s444_comb.aig,done,33,3,-0.03175390914319198,-0.03175390914319198,balance/rewrite/refactor/balance/rewrite/rewrite -z/balance/refactor -z/rewrite -z/rewrite/balance/rewrite/refactor/balance/rewrite/refactor -z/balance/refactor -z/rewrite -z/balance,1218_171735
+mux_cl_comb.aig,init,37,4,0,0,[],1218_171735
+mux_cl_comb.aig,reset,10,3,0.030504678315873633,0.6100935663174727,[],1218_171736
