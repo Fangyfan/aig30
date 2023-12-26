@@ -10,7 +10,6 @@ import numpy as np
 import os
 from torch import optim
 from torch.nn.utils import clip_grad_norm_
-from typing import TypeAlias
 from env_v8 import StateType
 from replay_v4 import ReplayMemory
 
@@ -185,9 +184,11 @@ class RainbowAgent:
 
     def learn(self, mem: ReplayMemory):
         # Sample transitions
+        print("try to get sample")
         idxs, states, actions, returns, next_states, nonterminals, weights = mem.sample(
             self.batch_size
         )
+        print("get sample")
         # Calculate current state probabilities (online network noise already sampled)
         # Log probabilities log p(s_t, ·; θonline)
         log_ps = self.online_net(states, log=True)

@@ -1,23 +1,24 @@
 import argparse
 import os
-from utils import get_timestamp
+from utils import get_timestamp, clear_empty_dir
 import numpy as np
 import torch
 from env_v8 import FeatureSpace
 
+version = "v2.1"
+gpu = "cuda:0"
 model_load = None
 memory_load = None
 test = False
-version = "v2.1"
-gpu = "cuda:3"
-# model_load = './results/model/v12_1127_1558/checkpoint_650000.pth'
-# memory_load = "./results/memory/v2.0_1217_2019/memory_490000"
+# model_load = './results/model/v2.1_1221_2324/checkpoint_1000000.pth'
+# memory_load = './results/memory/v2.1_1221_2324/memory_1000000'
 # test = True
 
+
 # 设置迭代轮数
-EPOCH = 200e4
+EPOCH = 100e4
 # 每隔若干轮保存一次权重
-checkpoint_interval = 1e4
+checkpoint_interval = 10e4
 # 记忆空间大小
 memory_capacity = 50e4
 # 迭代若干次后开始训练
@@ -44,6 +45,8 @@ memory_save = f"./results/memory/{version}_{get_timestamp()}"
 
 feature_space = FeatureSpace
 feature_out = 64
+
+clear_empty_dir('./results')
 if not os.path.exists(model_save):
     os.makedirs(model_save)
 if not os.path.exists(memory_save):
@@ -248,6 +251,7 @@ def parse_args():
     parser.add_argument("--memory-interval", default=memory_interval)
     parser.add_argument("--test", default=test)
     parser.add_argument("--version", default=version)
+
     # Setup
     args = parser.parse_args()
     metrics = {"steps": [], "rewards": [], "Qs": [], "best_avg_reward": -float("inf")}

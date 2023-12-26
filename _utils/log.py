@@ -1,6 +1,6 @@
 from typing import Literal, IO
 from colorama import Fore, Back, Style
-from typing import Literal
+from typing import Literal, Union
 
 
 def color_print(*text, **keyword):
@@ -46,7 +46,7 @@ class Log:
 
     def hide(prin=True, error=False, success=True, warnin=False, note=True, tips=True, all=False):
         '''
-        默认不关闭error和warning的显示
+        默认不关闭 error 和 warning 的显示
         '''
         if all:
             Log._show_print = False
@@ -69,18 +69,18 @@ class Log:
             Log._show_tips = False
 
     def print(*values: object,
-              sep: str | None = " ",
-              end: str | None = "\n",
-              file: IO | None = None,
+              sep: Union[str, None] = " ",
+              end: Union[str, None] = "\n",
+              file: Union[IO, None] = None,
               flush: Literal[False] = False,
               ):
         if Log._show_print:
             print(*values, sep=sep, end=end, file=file, flush=flush)
 
     def error(*values: object,
-              sep: str | None = " ",
-              end: str | None = "\n",
-              file: IO | None = None,
+              sep: Union[str, None] = " ",
+              end: Union[str, None] = "\n",
+              file: Union[IO, None] = None,
               flush: Literal[False] = False,
               tips: str = '错误',
               division=':',
@@ -91,9 +91,9 @@ class Log:
                         flush=flush, tips=tips, color=color, division=division)
 
     def success(*values: object,
-                sep: str | None = " ",
-                end: str | None = "\n",
-                file: IO | None = None,
+                sep: Union[str, None] = " ",
+                end: Union[str, None] = "\n",
+                file: Union[IO, None] = None,
                 flush: Literal[False] = False,
                 tips: str = '成功',
                 division=':',
@@ -104,9 +104,9 @@ class Log:
                         flush=flush, tips=tips, color=color, division=division)
 
     def warning(*values: object,
-                sep: str | None = " ",
-                end: str | None = "\n",
-                file: IO | None = None,
+                sep: Union[str, None] = " ",
+                end: Union[str, None] = "\n",
+                file: Union[IO, None] = None,
                 flush: Literal[False] = False,
                 tips: str = '警告',
                 division=':',
@@ -117,9 +117,9 @@ class Log:
                         flush=flush, tips=tips, color=color, division=division)
 
     def note(*values: object,
-             sep: str | None = " ",
-             end: str | None = "\n",
-             file: IO | None = None,
+             sep: Union[str, None] = " ",
+             end: Union[str, None] = "\n",
+             file: Union[IO, None] = None,
              flush: Literal[False] = False,
              tips: str = '注意',
              division=':',
@@ -130,9 +130,9 @@ class Log:
                         flush=flush, tips=tips, color=color, division=division)
 
     def tips(*values: object,
-             sep: str | None = " ",
-             end: str | None = "\n",
-             file: IO | None = None,
+             sep: Union[str, None] = " ",
+             end: Union[str, None] = "\n",
+             file: Union[IO, None] = None,
              flush: Literal[False] = False,
              tips: str = '提示',
              division=':',

@@ -10,7 +10,6 @@ import numpy as np
 import os
 from torch import optim
 from torch.nn.utils import clip_grad_norm_
-from typing import TypeAlias
 from env_v8 import StateType
 from replay_v4 import ReplayMemory
 
@@ -68,7 +67,6 @@ class NoisyLinearSequential(nn.Module):
     def forward(self, x):
         for noisyLinear in self.NoisyLinear:
             x = F.relu(noisyLinear(x))
-
         return x
 
     def reset_noise(self):
